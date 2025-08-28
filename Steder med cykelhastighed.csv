@@ -1,0 +1,128 @@
+﻿Top 1000 values of siteName,Top 100 values of sensorName,Top 3 values of scalarUnit,"average(scalarValue) * 3.6
+"
+KK-0107-CO-FLO-01 - Kalvebod Brygge (Søsnittet) FLOW tællekamera 01,KK+CO0107.1=001DL000 - S0202 - Average speed,m/s,43.317
+KK-0113-RD-VIS-01 - Vasbygade 13 - midt - Radar,KK+RG0113=001DL000 - S0202 - Average speed,m/s,46.252
+KK-0113-RD-VIS-02 - Vasbygade 13 - højre - Radar,KK+RG0113.1=001DL000 - S0202 - Average speed,m/s,44.733
+KK-0205-CO-VIS-01 - Vesterbrogade / Reventlowsgade - Counting Station,KK+CO0205=001DL001 - S0202 - Average speed,m/s,19.27
+KK-0206-CO-VIS-01 - Vesterbrogade / Trommesalen - Counting Station,KK+CO0206=001DL001 - S0202 - Average speed,m/s,16.463
+KK-0406-RD-SMI-01 - Gyldenløvesgade / Søgaderne AG 04.06,KK+RG0406=001DL001 - S0202 - Average speed,m/s,23.001
+KK-0406-RD-SMI-01 - Gyldenløvesgade / Søgaderne AG 04.06,KK+RG0406=001DL002 - S0202 - Average speed,m/s,22.567
+KK-0406-RD-SMI-01 - Gyldenløvesgade / Søgaderne AG 04.06,KK+RG0406=001DL003 - S0202 - Average speed,m/s,1.816
+KK-0407-CO-VIS-01 - Gyldenløvesgade (Søsnittet) FLOW - Counting station,KK+CO0407=001DL001 - S0202 - Average speed,m/s,17.224
+KK-0502-RD-SMI-01 - Nørre Voldgade / Frederiksborggade AG 05.02,KK+RG0502=001DL001 - S0202 - Average speed,m/s,20.655
+KK-0502-RD-SMI-01 - Nørre Voldgade / Frederiksborggade AG 05.02,KK+RG0502=001DL002 - S0202 - Average speed,m/s,23.583
+KK-0508-RD-SMI-01  - Nørre Voldgade / Linnésgade AG 05.08,KK+RG0508=001DL001 - S0202 - Average speed,m/s,26.915
+KK-0601-RD-VIS-01 - Prinsessegade 54 - Radar,KK+RG0601=001DL000 - S0202 - Average speed,m/s,32.436
+KK-0602-CO-FLO-01 - Knippelsbro Flow tællekamera,KK+CO0602=001DL001 - S0202 - Average speed,m/s,25.164
+KK-0604-RD-VIS-01 - Prinsessegade 49 - Radar,KK+RG0604=001DL000 - S0202 - Average speed,m/s,29.435
+KK-0606-CO-VIS-01 - Amagerbrogade indadgående - Counting station,KK+CO0606=001DL001 - S0202 - Average speed,m/s,20.7
+KK-0903-RD-VIS-01 - Sølvgade 4 - Radar,KK+RG0903=001DL000 - S0202 - Average speed,m/s,35.57
+KK-0903-RD-VIS-02 - Sølvgade / Rigensgade - Radar,KK+RG0903.1=001DL000 - S0202 - Average speed,m/s,40.205
+KK-0906-RD-SMI-01 - Fredens Bro AG 09.06,KK+RG0906=001DL001 - S0202 - Average speed,m/s,17.039
+KK-0906-RD-SMI-01 - Fredens Bro AG 09.06,KK+RG0906=001DL002 - S0202 - Average speed,m/s,13.965
+KK-0908-CO-VIS-01 - Fredensgade - Counting Station,KK+CO0908.1=001DL001 - S0202 - Average speed,m/s,20.44
+KK-0910-RD-VIS-02 - Øster Farigmagsgade / Zinnsgade - Radar,KK+RG0910.1=001DL000 - S0202 - Average speed,m/s,35.043
+KK-1002-RD-VIS-01 - Øster Voldgade/ Oslo Plads - Radar,KK+RG1002=001DL000 - S0202 - Average speed,m/s,33.413
+KK-1004-RD-VIS-01 - Dag Hammarskjölds Allé /Kristianiagade - Tælleadar,KK+RG1004=001DL000 - S0202 - Average speed,m/s,39.759
+KK-1004-RD-VIS-02 - Dag Hammarskjölds Allé 27 - Radar,KK+RG1004.1=001DL000 - S0202 - Average speed,m/s,45.437
+KK-1010-RD-VIS-01 - Øster Voldgade 25 – Radar,KK+RG1010=001DL000 - S0202 - Average speed,m/s,41.766
+KK-1010-RD-VIS-02 - Øster Voldgade 42 - Radar,KK+RG1010.1=001DL000 - S0202 - Average speed,m/s,32.884
+KK-1207-RD-VIS-01 - Strandvejen 85 - midt - nord - Radar,KK+RG1207.1=001DL000 - S0202 - Average speed,m/s,43.459
+KK-1207-RD-VIS-02 - Strandvejen 85 - midt - syd - Radar,KK+RG1207.2=001DL000 - S0202 - Average speed,m/s,46.76
+KK-1404-RD-SMI-01 - Lyngbyvej / Haraldsgade AG 14.04,KK+RG1404=001DL001 - S0202 - Average speed,m/s,32.073
+KK-1404-RD-SMI-01 - Lyngbyvej / Haraldsgade AG 14.04,KK+RG1404=001DL002 - S0202 - Average speed,m/s,36.236
+KK-1404-RD-SMI-01 - Lyngbyvej / Haraldsgade AG 14.04,KK+RG1404=001DL003 - S0202 - Average speed,m/s,32.221
+KK-1406-CO-VIS-01 - Lyngbyvej / Hammershusgade - Counting Station,KK+CO1406=001DL001 - S0202 - Average speed,m/s,17.848
+KK-1501-RD-VIS-01 - Lersø Parkalle 2A - højre - Radar,KK+RG1501=001DL000 - S0202 - Average speed,m/s,30.348
+KK-1501-RD-VIS-02 - Lersø Parkalle 2A - midt - Radar,KK+RG1501.1=001DL000 - S0202 - Average speed,m/s,37.969
+KK-1504-RD-VIS-01 - Lersø Parkalle 45 - syd for Aldersrogade - Radar,KK+RG1504=001DL000 - S0202 - Average speed,m/s,38.99
+KK-1507-RD-VIS-01 - Lersø Parkallé / Gribskovvej - Radar,KK+RG1507=001DL000 - S0202 - Average speed,m/s,41.403
+KK-1507-RD-VIS-02  - Lersø Parkallé 151 - Radar,KK+RG1507.1=001DL000 - S0202 - Average speed,m/s,39.01
+KK-1509-RD-VIS-01 - Lersø Parkallé 171 - Radar,KK+RG1509=001DL000 - S0202 - Average speed,m/s,33.909
+KK-1510-RD-SMI-01 - Tuborgvej / Emdrupvej AG 15.10,KK+RG1510=001DL001 - S0202 - Average speed,m/s,36.095
+KK-1510-RD-SMI-01 - Tuborgvej / Emdrupvej AG 15.10,KK+RG1510=001DL002 - S0202 - Average speed,m/s,36.614
+KK-1605-RD-SMI-01 - Tagensvej/Jagtvej - AG 16.05,KK+RG0909=001DL001 - S0202 - Average speed,m/s,20.653
+KK-1605-RD-SMI-01 - Tagensvej/Jagtvej - AG 16.05,KK+RG0909=001DL002 - S0202 - Average speed,m/s,26.771
+KK-1704-RD-VIS-02 - Frederiksborgvej 214 - Radar,KK+RG1704.1=001DL000 - S0202 - Average speed,m/s,39.71
+KK-1706-RD-VIS-02 - Frederiksborgvej 92 - Radar,KK+RG1706.1=001DL000 - S0202 - Average speed,m/s,38.133
+"KK-1907-CO-SWA-01 - Counting station, Frederikssundsvej 23, Mastra #117",KK+CO1907=001DL001 - S0202 - Average speed,m/s,28.212
+KK-2213-RD-VIS-01 - Islevhusvej 85 - højre - øst - Radar,KK+RG2213=001DL000 - S0202 - Average speed,m/s,45.393
+KK-2310-RD-VIS-01 - Bellahøjvej 48 - Radar,KK+RG2310=001DL000 - S0202 - Average speed,m/s,36.937
+KK-2406-RD-VIS-01 - Ålekistevej / Klitmøllervej - Radar,KK+RG2406=001DL000 - S0202 - Average speed,m/s,37.766
+KK-2406-RD-VIS-02 - Ålekistevej 138 - Radar,KK+RG2406.1=001DL000 - S0202 - Average speed,m/s,41.741
+KK-2410-RD-VIS-01 - Slotherrensvej 149 - Radar,KK+RG2410=001DL000 - S0202 - Average speed,m/s,43.474
+KK-2603-CO-VIS-01 - Roskildevej/ Damhussøen (indadgående) - Cykelbarometer Counting Station,KK+CO2603=001DL001 - S0202 - Average speed,m/s,19.427
+KK-2603-RD-VIS-02 - Roskildevej 183 - midt - Radar,KK+RG2603.1=001DL000 - S0202 - Average speed,m/s,44.856
+KK-2603-RD-VIS-03 - Roskildevej 183 - højre - Skoletavle,KK+RG2603.2=001DL000 - S0202 - Average speed,m/s,43.412
+KK-2612-RD-SMI-01 - Grøndals Parkvej / Jernbane Allé AG 26.12,KK+RG2612=001DL001 - S0202 - Average speed,m/s,21.374
+KK-2612-RD-SMI-01 - Grøndals Parkvej / Jernbane Allé AG 26.12,KK+RG2612=001DL002 - S0202 - Average speed,m/s,14.152
+KK-2612-RD-SMI-01 - Grøndals Parkvej / Jernbane Allé AG 26.12,KK+RG2612=001DL003 - S0202 - Average speed,m/s,32.835
+KK-2703-RD-VIS-01 - Enghavevej ved Enghaveparken - Radar,KK+RG2703=001DL000 - S0202 - Average speed,m/s,39.141
+KK-2703-RD-VIS-02 - Enghavevej ved Enghave Pl. - Radar,KK+RG2703.1=001DL000 - S0202 - Average speed,m/s,36.248
+KK-2703-RD-VIS-04 - Enghave Plads 20 - Radar,KK+RG2703.3=001DL000 - S0202 - Average speed,m/s,74.552
+KK-2703-RD-VIS-05 - Enghave Plads 14 - Radar,KK+RG2703.4=001DL000 - S0202 - Average speed,m/s,31.258
+KK-2704-RD-VIS-01 - Enghavevej / Ny Carlberg Vej - Radar,KK+RG2704=001DL000 - S0202 - Average speed,m/s,30.408
+KK-2801-RD-VIS-01 - Sjælør Boulevard 147 - Radar,KK+RG2801=001DL000 - S0202 - Average speed,m/s,40.846
+KK-2804-RD-SMI-01  - Toftegårds Allé / Lyshøjgårdsvej AG 28.04,KK+RG2804=001DL001 - S0202 - Average speed,m/s,0.384
+KK-2804-RD-SMI-01  - Toftegårds Allé / Lyshøjgårdsvej AG 28.04,KK+RG2804=001DL002 - S0202 - Average speed,m/s,0.191
+KK-2804-RD-SMI-01  - Toftegårds Allé / Lyshøjgårdsvej AG 28.04,KK+RG2804=001DL003 - S0202 - Average speed,m/s,1.292
+KK-2906-RD-SMI-01 - Vigerslevvej / Lykkebovej AG 29.06,KK+RG2906=001DL001 - S0202 - Average speed,m/s,4.784
+KK-2906-RD-SMI-01 - Vigerslevvej / Lykkebovej AG 29.06,KK+RG2906=001DL002 - S0202 - Average speed,m/s,18.426
+KK-2906-RD-SMI-01 - Vigerslevvej / Lykkebovej AG 29.06,KK+RG2906=001DL003 - S0202 - Average speed,m/s,30.277
+KK-2908-RD-VIS-01 - Vigerslevvej 99  - Radar,KK+RG2908=001DL000 - S0202 - Average speed,m/s,31.723
+KK-2908-RD-VIS-02 - Vigerslevvej 54  - Radar,KK+RG2908.1=001DL000 - S0202 - Average speed,m/s,37.775
+KK-3002-RD-SMI-01  - Gl. Køge Landevej / Torveporten AG 30.02,KK+RG3002=001DL001 - S0202 - Average speed,m/s,11.635
+KK-3002-RD-SMI-01  - Gl. Køge Landevej / Torveporten AG 30.02,KK+RG3002=001DL002 - S0202 - Average speed,m/s,33.167
+KK-3002-RD-SMI-01  - Gl. Køge Landevej / Torveporten AG 30.02,KK+RG3002=001DL003 - S0202 - Average speed,m/s,32.795
+KK-3002-RD-SMI-01  - Gl. Køge Landevej / Torveporten AG 30.02,KK+RG3002=001DL004 - S0202 - Average speed,m/s,33.306
+KK-3002-RD-SMI-01  - Gl. Køge Landevej / Torveporten AG 30.02,KK+RG3002=001DL005 - S0202 - Average speed,m/s,36.03
+KK-3007-RD-VIS-01 - Vigerslevvej 283 - Radar,KK+RG3007=001DL000 - S0202 - Average speed,m/s,40.052
+KK-3007-RD-VIS-02 - Vigerslevvej 274 - Radar,KK+RG3007.1=001DL000 - S0202 - Average speed,m/s,37.844
+KK-3009-RD-SMI-01 - Ellebjergvej / Valbyhallen AG 30.09,KK+RG3009=001DL001 - S0202 - Average speed,m/s,40.327
+KK-3009-RD-SMI-01 - Ellebjergvej / Valbyhallen AG 30.09,KK+RG3009=001DL002 - S0202 - Average speed,m/s,31.961
+KK-3013-RD-VIS-01 - Vigerslevvej 327 - Radar,KK+RG3013=001DL000 - S0202 - Average speed,m/s,42.216
+KK-3013-RD-VIS-02 - Vigerslevvej 319 - Radar,KK+RG3013.1=001DL000 - S0202 - Average speed,m/s,40.345
+KK-3107-RD-VIS-01 - P. Knudsens Gade 41 - Radar,KK+RG3107=001DL000 - S0202 - Average speed,m/s,43.977
+KK-3108-RD-VIS-01 - P. Knudsens Gade / Wiinbladsgade - Radar,KK+RG3108=001DL000 - S0202 - Average speed,m/s,43.011
+KK-3109-RD-VIS-01 - Enghavevej 168 - midt - nord - Radar,KK+RG3109=001DL000 - S0202 - Average speed,m/s,46.463
+KK-3109-RD-VIS-02 - Enghavevej 168 - højre - nord - Radar,KK+RG3109.1=001DL000 - S0202 - Average speed,m/s,43.216
+KK-3111-RD-VIS-01 - Teglholmsgade 44 - Radar,KK+RG3111=001DL000 - S0202 - Average speed,m/s,33.012
+KK-3111-RD-VIS-02 - Støberigade 29 - Radar,KK+RG3111.1=001DL000 - S0202 - Average speed,m/s,31.452
+KK-3304-CO-VIS-01 - Ørestads Blvd. ved DR Byen St. - Counting Station,KK+CO3304=001DL001 - S0202 - Average speed,m/s,19.678
+KK-3304-RD-SMI-01 - Ørestads boulevard / Njalsgade AG 33.04,KK+RG3304=001DL001 - S0202 - Average speed,m/s,7.16
+KK-3304-RD-SMI-01 - Ørestads boulevard / Njalsgade AG 33.04,KK+RG3304=001DL002 - S0202 - Average speed,m/s,34.747
+KK-3410-RD-VIS-01 - Backersvej 32A - hastigheds- og tælleradar,KK+RG3410=001DL000 - S0202 - Average speed,m/s,38.143
+KK-3411-RD-VIS-01 - Engvej 78 - Hastigheds- og tælleradar,KK+RG3411=001DL000 - S0202 - Average speed,m/s,41.394
+KK-3411-RD-VIS-03 - Backersvej 129 - hastigheds- og tælleradar,KK+RG3411.2=001DL000 - S0202 - Average speed,m/s,38.615
+KK-3411.1-RD-VIS-02 - Engvej 75 - Hastigheds- og tælleradar,KK+RG3411.1=001DL000 - S0202 - Average speed,m/s,38.305
+KK-3505-RD-VIS-01 - Englandsvej 61 - Radar,KK+RG3505=001DL000 - S0202 - Average speed,m/s,44.264
+KK-3505-RD-VIS-02 - Englandsvej / Azaleagangen - Radar,KK+RG3505.1=001DL000 - S0202 - Average speed,m/s,43.789
+KK-3508-CO-VIS-01 - Ørestads Blvd. langs Metro - Counting Station,KK+CO3508=001DL001 - S0202 - Average speed,m/s,20.311
+KK-3508-RD-SMI-01 - Røde Mellemvej / Remisevej AG 35.08,KK+RG3508=001DL001 - S0202 - Average speed,m/s,29.063
+KK-3508-RD-SMI-01 - Røde Mellemvej / Remisevej AG 35.08,KK+RG3508=001DL002 - S0202 - Average speed,m/s,33.286
+KK-3508-RD-VIS-02 - Røde Mellemvej 75 - Radar,KK+RG3508.1=001DL000 - S0202 - Average speed,m/s,43.861
+KK-3508-RD-VIS-03 - Røde Mellemvej 28 - Radar,KK+RG3508.2=001DL000 - S0202 - Average speed,m/s,41.777
+KK-3509-RD-VIS-01 - Peder Lykkes Vej /Tingvej - Radar,KK+RG3509=001DL000 - S0202 - Average speed,m/s,39.722
+KK-3509-RD-VIS-02 - Peder Lykkes Vej 85 - Radar,KK+RG3509.1=001DL000 - S0202 - Average speed,m/s,40.931
+KK-4002-RD-VIS-01 - Vejlands Allé 129 - midt - øst - Radar,KK+RG4002=001DL000 - S0202 - Average speed,m/s,47.851
+KK-4002-RD-VIS-02 - Vejlands Allé 129 - højre - øst - Radar,KK+RG4002.1=001DL000 - S0202 - Average speed,m/s,47.303
+KK-4003-RD-SMI-01 - Ørestads Blvd / Vejlands Alle AG 40.03,KK+RG4003=001DL001 - S0202 - Average speed,m/s,36.511
+KK-4007-VM-VIS-02 - Dæmningsvej/ Imia Allé (indadgående) - Counting station,KK+CO4007.1=001DL001 - S0202 - Average speed,m/s,25.94
+KK-4103-CO-VIS-01 - Vermlandsgade indadgående - Counting station,KK+CO4103=001DL001 - S0202 - Average speed,m/s,15.422
+KK-4122-RD-VIS-01 - Prags Boulevard nord v. Raffinaderivej  - Radar,KK+RG4122=001DL000 - S0202 - Average speed,m/s,35.056
+KK-4122-RD-VIS-02 - Prags Boulevard 67 v. Uplandsgade  - Radar,KK+RG4122.1=001DL000 - S0202 - Average speed,m/s,38.528
+KK-4212-RD-VIS-01 - Kristianiagade 19 - Radar,KK+RG4212=001DL000 - S0202 - Average speed,m/s,35.27
+KK-5005-CO-VIS-01 - Ørestads Blvd. / Hannemanns Allé (indadgående) - Counting Station,KK+CO5005=001DL001 - S0202 - Average speed,m/s,20.371
+KK-5005-CO-VIS-02 - Ørestads Blvd. / Hannemanns Allé (udadgående) - Counting Station,KK+CO5005.1=001DL001 - S0202 - Average speed,m/s,17.541
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
