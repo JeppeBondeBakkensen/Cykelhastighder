@@ -1,0 +1,431 @@
+﻿Obs;Active Alarms;Name;Type;Subtype;Intersection;Area;Last Update;Operation mode;Active plan;Info
+informational;;01.04;EC-2 Nordic;;Christians Brygge ved det Kgl. Bibliotek;AG01;Sep 2, 2025 1:00:18 PM;ON / Control;PL03/Calendar;EC1+ C prio
+attention;Configuration error;01.05;EC-2 Nordic;;Christians Brygge/Vester Voldgade;AG01;Sep 2, 2025 12:54:50 PM;ON / Control;PL04/Calendar;EC-2 C prio
+attention;;01.06;EC-2 Nordic;;Kalvebod Brygge/Puggaardsgade;AG01;Sep 2, 2025 1:01:58 PM;ON / Control;PL04/Calendar;EC-2 C prio
+attention;Lamp error;01.07 P;EC-2 Nordic;;Kalvebod Brygge/Bernstorffsgade;AG01;Sep 2, 2025 12:48:42 PM;ON / Control;PL04/Calendar;EC-2 B prio
+attention;Lamp error;01.08 P;RSMP;;Kalvebod Brygge/Arni Magnussons Gade;AG01;Sep 2, 2025 1:02:35 PM;ON / Control;PL03/Unknown;ITC-3
+off;System Alarms;01.09;EC-2 Nordic;;Kalvebod Brygge/DybbÃ¸lsbro;AG01;Jan 28, 2025 4:29:03 PM;Unknown / Unknown;PL-1/Unknown;ITC-2
+attention;Lamp error;01.10;EC-2 Nordic;;Vasbygade/Kalvebod Pladsvej;AG01;Sep 2, 2025 12:49:21 PM;ON / Control;PL01/Calendar;EC-2 B prio
+attention;Lamp error;01.11;EC-2 Nordic;;Vasbygade/KortlÃ¸b;AG01;Sep 2, 2025 12:52:29 PM;ON / Control;PL04/Calendar;EC-2 B prio
+informational;System Alarms;01.12;EC-2 Nordic;;Vasbygade/Forlagt Otto Busses Vej;AG01;Sep 2, 2025 12:59:11 PM;ON / Control;PL04/Calendar;EC-2 B prio
+attention;;01.13;EC-2 Nordic;;Vasbygade/Vestre Teglgade;AG01;Sep 2, 2025 1:01:59 PM;ON / Control;PL03/Calendar;EC-2 C-prio
+off;Lamp error;01.14 P;RSMP;;Havneholmen-Fisketorvet-Skanska;AG 01;Jul 17, 2025 12:54:23 PM;Unknown / Unknown;PL-1/Unknown;ITC-3
+attention;Hardware error;01.15 P;RSMP;;Nelson Mandelas Vej - Bertha Von Suttnersvej ;AG 01;Sep 2, 2025 1:01:32 PM;ON / Control;PL01/Unknown;ITC3
+healthy;;02.01 P;RSMP;;Bernstoffsgade - Hambrosgade;AG02;Sep 2, 2025 1:00:30 PM;ON / Control;PL01/Unknown;ITC-3/N
+informational;;02.02;EC-2 Nordic;;Bernstorffsgade/Tietgensgade;AG02;Sep 2, 2025 1:04:27 PM;ON / Control;PL03/Calendar;EC-2 C prio
+informational;;02.03;EC-2 Nordic;;Bernstroffsgade ved Tivoli;AG02;Sep 2, 2025 1:03:23 PM;ON / Control;PL03/Calendar;EC-1+ A prio
+off;System Alarms;02.04;RSMP;;Vesterbrogade/Bernstoffsgade;AG02;Jun 25, 2025 7:51:17 AM;Unknown / Unknown;PL-1/Unknown;ITC-2
+attention;Lamp error;02.05;EC-2 Nordic;;Vesterbrogade/Vester Farimagsgade;AG02;Sep 2, 2025 1:04:28 PM;ON / Control;PL02/Calendar;EC-2 C prio
+attention;Lamp error;02.06;EC-2 Nordic;;Vesterbrogade/Trommesalen;AG02;Sep 2, 2025 1:04:06 PM;ON / Control;PL02/Calendar;EC-2 C prio
+attention;Lamp error;02.07;EC-2 Nordic;;Ved Vesterport/Vester Farimagsgade/Hammerichsgade;AG02;Sep 2, 2025 12:49:45 PM;ON / Control;PL03/Calendar;EC-1+ C prio
+healthy;;02.09;EC-2 Nordic;;Vester Farimagsgade/Kampmannsgade/Hammerichsgade - Axeltorv;AG02;Sep 2, 2025 1:03:23 PM;ON / Control;PL03/Calendar;EC-2 C prio
+healthy;;02.10;EC-2 Nordic;;Kampmannsgade/Vester SÃ¸gade;AG02;Sep 2, 2025 12:59:11 PM;ON / Control;PL03/Calendar;EC-1+ C prio
+healthy;;02.11 P;RSMP;;Carsten Niebuhrsgade - Postbyen udkÃ¸rsel;AG02;Sep 2, 2025 12:59:48 PM;ON / Control;PL03/Unknown;ITC-3
+healthy;;02.12 P;RSMP;; Carsten Niebuhrsgade - Arni Magnusssons Gade;AG02;Sep 2, 2025 1:02:35 PM;ON / Control;PL06/Unknown;ITC-3/N
+unknown;Hardware error;02.13 P;RSMP;; Carsten Nieburhsgade - Ikea;AG02;Sep 2, 2025 9:38:39 AM;Unknown / Unknown;PL-1/Unknown;ITC-3/N
+informational;;03.01;EC-2 Nordic;;Vester Voldgade/Ny Kongensgade;AG03;Sep 2, 2025 1:02:34 PM;ON / Control;PL01/Calendar;EC1+ C prio
+healthy;;03.02;EC-2 Nordic;;H. C. Andersens Boulevard/Tietgensgade;AG03;Sep 2, 2025 1:05:20 PM;ON / Control;PL02/Calendar;EC1+ A prio
+informational;;03.03;EC-2 Nordic;;H. C. Andersens Boulevard/Niels Brocks Gade;AG03;Sep 2, 2025 1:01:15 PM;ON / Control;PL02/Calendar;B prio
+informational;;03.04;EC-2 Nordic;;H. C. Andersens Boulevard/Rysenstensgade;AG03;Sep 2, 2025 1:05:45 PM;ON / Control;PL02/Calendar;B prio
+healthy;;03.05;EC-2 Nordic;;Klaksvigsgade/Weidekampsgade;AG03;Sep 2, 2025 12:48:40 PM;ON / Control;PL02/Calendar;EC2 C prio
+attention;Lamp error;03.06;EC-2 Nordic;;Amager Boulevard/Klaksvigsgade;AG03;Sep 2, 2025 1:01:59 PM;ON / Control;PL02/Calendar;EC1+ B prio
+healthy;;03.07;EC-2 Nordic;;Amager Boulevard/Amager FÃ¦lledvej;AG03;Sep 2, 2025 12:48:44 PM;ON / Control;PL02/Calendar;B prio
+healthy;;03.08;EC-2 Nordic;;Njalsgade/Islands Brygge;AG03;Sep 2, 2025 12:48:17 PM;ON / Control;PL03/Calendar;EC1+ C prio
+informational;;03.09;EC-2 Nordic;;Amager FÃ¦lledvej/Peter Vedels Gade;AG03;Sep 2, 2025 12:48:41 PM;ON / Control;PL02/Calendar;C prio
+attention;;03.10;EC-2 Nordic;;Vester Voldgade/Stormgade/LÃ¸ngangsstrÃ¦de;AG03;Sep 2, 2025 12:51:24 PM;ON / Control;PL02/Calendar;B prio
+healthy;;03.11;EC-2 Nordic;;Stormgade/Frederiksholmens Kanal ;AG03;Sep 2, 2025 12:51:23 PM;ON / Control;PL02/Calendar;B prio
+off;System Alarms;03.12;RSMP;;Vester Voldgade/Rysensteensgade;AG03;Jun 25, 2025 7:51:47 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2
+attention;Lamp error;03.13;EC-2 Nordic;;Amager Boulevard/Ã˜restads Blvd;AG03;Sep 2, 2025 1:04:42 PM;ON / Control;PL02/Calendar;B prio
+healthy;;03.14;EC-2 Nordic;;Amager Boulevard ved Stadsgraven;AG03;Sep 2, 2025 1:04:42 PM;ON / Control;PL02/Calendar;
+healthy;;04.01;EC-2 Nordic;;HCA Boulevard/Vesterbrogade;AG04;Sep 2, 2025 12:48:17 PM;ON / Control;PL02/Calendar;A prio
+healthy;;04.02;EC-2 Nordic;;HCA Boulevard/Jernbanegade  ;AG04;Sep 2, 2025 12:49:19 PM;ON / Control;PL02/Calendar;B prio
+attention;Lamp error;04.03;EC-2 Nordic;;HCA Boulevard/StudiestrÃ¦de;AG04;Sep 2, 2025 1:04:28 PM;ON / Control;PL02/Calendar;B prio
+attention;Lamp error;04.04;EC-2 Nordic;;HCA Boulevard/Jarmers Plads/Vester Voldgade;AG04;Sep 2, 2025 12:50:52 PM;ON / Control;PL02/Calendar;B prio
+attention;;04.05;EC-2 Nordic;;GyldenlÃ¸vesgade/Farimagsgade;AG04;Sep 2, 2025 1:04:27 PM;ON / Control;PL02/Calendar;B prio
+attention;Lamp error;04.06;EC-2 Nordic;;GyldenlÃ¸vesgade/Vester SÃ¸gade/NÃ¸rre SÃ¸gade;AG04;Sep 2, 2025 1:00:11 PM;ON / Control;PL03/Calendar;A prio
+healthy;;04.07;EC-2 Nordic;;GyldenlÃ¸vesgade/RosenÃ¸rns Alle;AG04;Sep 2, 2025 12:47:53 PM;ON / Control;PL02/Calendar;A prio
+attention;Lamp error;04.08;EC-2 Nordic;;Vester Voldgade/Jarmers Plads;AG04;Sep 2, 2025 12:50:22 PM;ON / Control;PL02/Calendar;B prio
+informational;;04.09;EC-2 Nordic;;Vester Voldgade/StudiestrÃ¦de;AG04;Sep 2, 2025 1:05:18 PM;ON / Control;PL04/Calendar;B prio
+healthy;;04.10;EC-2 Nordic;;RÃ¥dhuspladsen/Frederiksberggade;AG04;Sep 2, 2025 12:48:41 PM;ON / Control;PL02/Calendar;B prio
+off;System Alarms;05.01-S;RSMP;;NÃ¸rre Voldgade/Gothersgade;AG05;Oct 1, 2024 11:52:17 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2, B Prio
+off;System Alarms;05.02-S;RSMP;;NÃ¸rre Voldgade/Frederiksborggade;AG05;Sep 14, 2022 11:41:09 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2, B prio
+off;System Alarms;05.03;RSMP;;NÃ¸rre Voldgade/Vendersgade;AG05;Jan 28, 2020 1:09:07 PM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2, B prio
+informational;;05.04;EC-2 Nordic;;NÃ¸rre Farimagsgade/Gothersgade;AG05;Sep 2, 2025 12:49:20 PM;ON / Control;PL05/Calendar;EC1+, C prio
+informational;;05.05;EC-2 Nordic;;NÃ¸rre Farimagsgade/Frederiksborggade;AG05;Sep 2, 2025 12:47:15 PM;ON / Control;PL05/Calendar;C prio
+informational;;05.06;EC-2 Nordic;;NÃ¸rre Farimagsgade/Vendersgade;AG05;Sep 2, 2025 12:49:19 PM;ON / Control;PL03/Calendar;C prio
+healthy;;05.07 ;RSMP;;NÃ¸rre Farimagsgade - Ahlenfeldtsgade;AG 05;Sep 2, 2025 1:01:32 PM;ON / Control;PL03/Unknown;ITC-3/N
+off;Detector error;05.08-S;RSMP;;NÃ¸rre Voldgade/LinnÃ©sgade;AG05;Jan 28, 2020 1:09:12 PM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2, X prio
+off;Lamp error;05.10-S;RSMP;;Gothersgade/LandemÃ¦rket;AG05;Mar 2, 2021 8:35:16 PM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2, C prio
+attention;;06.01;EC-2 Nordic;;Prinsessegade/BÃ¥dsmandsstrÃ¦de;AG06;Sep 2, 2025 1:06:37 PM;ON / Control;PL01/Calendar;X Prio
+attention;Lamp error;06.02;EC-2 Nordic;;Torvegade/Strandgade;AG06;Sep 2, 2025 12:51:57 PM;ON / Control;PL02/Calendar;B prio
+attention;;06.03;EC-2 Nordic;;Torvegade /Overgaden o. Vandet/Dronningens gade/Prinsesse gade;AG06;Sep 2, 2025 1:00:10 PM;ON / Control;PL03/Calendar;B prio
+healthy;;06.04;EC-2 Nordic;;Prinsessegade/Skt. AnnÃ¦ Gade;AG06;Sep 2, 2025 12:49:21 PM;ON / Control;PL01/Calendar;EC1+, C prio
+unknown;Lamp error;06.05;EC-2 Nordic;;Christmas MÃ¸llers Plads/Ved Stadsgraven;AG06;Sep 2, 2025 10:23:22 AM;Unknown / Unknown;PL-1/Unknown;A prio
+healthy;;06.06;EC-2 Nordic;;Amagerbrogade/Amager Boulevard;AG06;Sep 2, 2025 1:05:31 PM;ON / Control;PL01/Calendar;B prio
+attention;;06.07;EC-2 Nordic;;Amagerbrogade/Holmbladsgade;AG06;Sep 2, 2025 1:00:10 PM;ON / Control;PL01/Calendar;B prio
+informational;;06.08;EC-2 Nordic;;Holmbladsgade/Ã…landsgade;AG06;Sep 2, 2025 1:00:31 PM;ON / Control;PL01/Calendar;EC1+, C prio
+attention;Safety error;06.09;EC-2 Nordic;;Amagerbrogade/Brysselsgade;AG06;Sep 2, 2025 12:49:21 PM;ON / Control;PL01/Calendar;B prio
+healthy;;06.10;EC-2 Nordic;;Amagerbrogade/Store MÃ¸lle Vej;AG06;Sep 2, 2025 1:06:16 PM;ON / Control;PL01/Calendar;X prio
+healthy;;06.11;EC-2 Nordic;;Amagerbrogade - FodgÃ¦ngerfelt;AG 06;Sep 2, 2025 1:03:00 PM;ON / Control;PL01/Calendar;
+healthy;;07.01;EC-2 Nordic;;Christiansborg Slotsplads/Holmens Kanal;AG07;Sep 2, 2025 1:03:38 PM;ON / Control;PL02/Calendar;B prio
+informational;;07.02;EC-2 Nordic;;Christiansborg Slotsplads/HÃ¸jbro;AG07;Sep 2, 2025 1:03:22 PM;ON / Control;PL03/Calendar;B prio
+attention;Lamp error;07.05;EC-2 Nordic;;Bremerholm/Havnegade;AG07;Sep 2, 2025 1:01:58 PM;ON / Control;PL02/Calendar;B prio
+attention;Lamp error;07.06;EC-2 Nordic;;Bremerholm/VingÃ¥rdsstrÃ¦de;AG07;Sep 2, 2025 1:05:30 PM;ON / Control;PL03/Calendar;C prio
+attention;;07.07;EC-2 Nordic;;Bremerholm/Lille Kongensgade;AG07;Sep 2, 2025 1:03:39 PM;ON / Control;PL03/Calendar;C prio
+attention;Lamp error;07.08;EC-2 Nordic;;Gammel MÃ¸nt/SvÃ¦rtegade;AG07;Sep 2, 2025 12:49:20 PM;ON / Control;PL03/Calendar;C prio
+healthy;;07.09;EC-2 Nordic;;Gothersgade/Kronprinsessegade;AG07;Sep 2, 2025 1:03:02 PM;ON / Control;PL03/Calendar;EC-2 C prio
+attention;;07.11;EC-2 Nordic;;Nytorv/Gammeltorv;AG07;Sep 2, 2025 1:02:36 PM;ON / Control;PL02/Calendar;C prio
+healthy;;07.12;EC-2 Nordic;;Knippelsbro - hÃ¸jdemÃ¥ler;AG07;Sep 2, 2025 12:57:41 PM;ON / Control;PL01/Calendar;
+attention;;07.13;EC-2 Nordic;;Havnegade/Niels Juelsgade;AG07;Sep 2, 2025 12:59:11 PM;ON / Control;PL02/Calendar;
+healthy;;07.14;EC-2 Nordic;;BÃ¸rsgade/BÃ¸rsbroen;AG07;Sep 2, 2025 1:03:22 PM;ON / Control;PL02/Calendar;B prio
+informational;;08.01;EC-2 Nordic;;Store Kongensgade/Esplanaden;AG08;Sep 2, 2025 12:48:40 PM;ON / Control;PL03/Calendar;B prio
+informational;;08.02 ;EC-2 Nordic;;Store Kongensgade/Dronningens TvÃ¦rgade;AG08;Sep 2, 2025 12:47:13 PM;ON / Control;PL02/Calendar;B prio
+healthy;;08.03;EC-2 Nordic;;Kongens Nytorv/Gothersgade;AG08;Sep 2, 2025 1:06:30 PM;ON / Control;PL03/Calendar;EC1+, B prio
+healthy;;08.04;EC-2 Nordic;;Marmorkirken/Frederiksgade;AG08;Sep 2, 2025 12:49:20 PM;ON / Control;PL02/Calendar;
+attention;;08.05;EC-2 Nordic;;Borgergade/Dronningens TvÃ¦rgade;AG08;Sep 2, 2025 1:05:44 PM;ON / Control;PL03/Calendar;C prio
+attention;Lamp error;08.06;EC-2 Nordic;;Holmens Kanal/Niels Juels Gade;AG08;Sep 2, 2025 1:01:15 PM;ON / Control;PL03/Calendar;A prio
+attention;Lamp error;08.07;EC-2 Nordic;;Kongens Nytorv/Bredgade;AG08;Sep 2, 2025 12:49:20 PM;ON / Control;PL03/Calendar;EC1+, B prio
+healthy;;08.08 ;EC-2 Nordic;;Bredgade/Dronningens TvÃ¦rgade;AG08;Sep 2, 2025 12:49:21 PM;ON / Control;PL03/Calendar;B prio
+healthy;;08.09 ;EC-2 Nordic;;Bredgade/Frederiksgade;AG08;Sep 2, 2025 1:05:31 PM;ON / Control;PL03/Calendar;B prio
+attention;;08.10;EC-2 Nordic;;Toldbodgade/Sankt AnnÃ¦ Plads;AG08;Sep 2, 2025 12:48:44 PM;ON / Control;PL02/Calendar;EC1+, C prio
+attention;Lamp error;08.11;EC-2 Nordic;;Toldbodgade/Nyhavn;AG08;Sep 2, 2025 12:47:13 PM;ON / Control;PL04/Calendar;C prio
+healthy;;08.12;EC-2 Nordic;;Kongens Nytorv/Lille Kongensgade;AG08;Sep 2, 2025 1:03:37 PM;ON / Control;PL02/Calendar;B prio
+healthy;;08.13;EC-2 Nordic;;Bredgade/Skt. AnnÃ¦ Plads;AG08;Sep 2, 2025 1:06:23 PM;ON / Control;PL03/Calendar;EC1+, C prio
+informational;;08.14 ;EC-2 Nordic;;GrÃ¸nningen/Esplanaden;AG08;Sep 2, 2025 12:46:39 PM;ON / Control;PL03/Calendar;C prio
+healthy;;09.02 ;EC-2 Nordic;;Borgergade/SÃ¸lvgade;AG09;Sep 2, 2025 12:46:35 PM;ON / Control;PL04/Calendar;
+healthy;;09.03;EC-2 Nordic;;SÃ¸lvgade/Kronprinsessegade;AG09;Sep 2, 2025 12:46:33 PM;ON / Control;PL03/Calendar;EC1+
+attention;;09.04;EC-2 Nordic;;SÃ¸lvgade/Ã˜ster Voldgade;AG09;Sep 2, 2025 12:49:21 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;09.05;EC-2 Nordic;;SÃ¸lvtorvet;AG09;Sep 2, 2025 12:49:20 PM;ON / Control;PL03/Calendar;
+informational;;09.06;EC-2 Nordic;;Fredens Bro/Ã˜ster SÃ¸gade;AG09;Sep 2, 2025 1:00:55 PM;ON / Control;PL03/Calendar;A prio
+attention;Lamp error;09.08;EC-2 Nordic;;Fredensgade/Blegdamsvej;AG09;Sep 2, 2025 1:01:32 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;09.09;EC-2 Nordic;;Tagensvej/NÃ¸rre Alle;AG09;Sep 2, 2025 1:00:55 PM;ON / Control;PL03/Calendar;A prio
+informational;;09.10.;EC-2 Nordic;;Ã˜ster Farimagsgade/Hallingsgade;AG09;Sep 2, 2025 12:46:11 PM;ON / Control;PL02/Calendar;
+healthy;;10.02;EC-2 Nordic;;Oslo Plads/Ã˜stervoldgade;AG10;Sep 2, 2025 12:49:19 PM;ON / Control;PL02/Calendar;A prio
+attention;Lamp error;10.03;EC-2 Nordic;;Oslo Plads/Ã˜stbanegade;AG10;Sep 2, 2025 12:49:21 PM;ON / Control;PL02/Calendar;
+attention;Lamp error;10.04;EC-2 Nordic;;Oslo Plads/Kristianagade;AG10;Sep 2, 2025 1:03:02 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;10.05 ;EC-2 Nordic;;Lille Triangel;AG10;Sep 2, 2025 1:03:01 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;10.06 ;EC-2 Nordic;;Trianglen/Ã˜sterbrogade/Nordre Frihavnsgade;AG10;Sep 2, 2025 1:01:32 PM;ON / Control;PL03/Calendar;
+healthy;;10.07;RSMP;;Ã˜sterbrogade/IdrÃ¦tsparken;AG10;Sep 2, 2025 1:02:18 PM;ON / Control;PL03/Unknown;ITC-3/N
+healthy;;10.08 ;RSMP;;Randersgade/Ã…rhusgade;AG 10;Sep 2, 2025 1:01:13 PM;ON / Control;PL03/Unknown;ITC_3/N
+healthy;;10.09;EC-2 Nordic;;Trianglen/Blegdamsvej/Ã˜ster AllÃ©;AG10;Sep 2, 2025 12:51:58 PM;ON / Control;PL03/Calendar;
+healthy;;10.10;RSMP;;Ã˜ster Voldgade/Kronprinsessegade;AG 10;Sep 2, 2025 1:00:30 PM;ON / Control;PL04/Unknown;ITC-3/N
+informational;;10.11;EC-2 Nordic;;Ã˜sterbrogade/Ryesgade;AG10;Sep 2, 2025 12:49:20 PM;ON / Control;PL03/Calendar;
+attention;;10.12;EC-2 Nordic;;Trianglen Syd/Ã˜sterbrogade;AG10;Sep 2, 2025 1:05:44 PM;ON / Control;PL02/Calendar;
+healthy;;10.13;EC-2 Nordic;;GrÃ¸nningen - FodgÃ¦ngerkrydsning;AG10;Sep 2, 2025 12:46:38 PM;ON / Control;PL01/Calendar;EC2
+healthy;;11.05;EC-2 Nordic;;KalkbrÃ¦nderihavnsgade/Ã…rhusgade;AG11;Sep 2, 2025 12:48:42 PM;ON / Control;PL04/Calendar;EC-2 C-prio
+attention;Lamp error;11.06 ;EC-2 Nordic;;KalkbrÃ¦nderihavnsgade/Indiakaj/Folke Bernadottes AllÃ©;AG11;Sep 2, 2025 1:02:20 PM;ON / Control;PL04/Calendar;EC-2 C-prio
+attention;Lamp error;11.07 ;EC-2 Nordic;;KalkbrÃ¦nderihavnsgade/Pakhusvej;AG11;Sep 2, 2025 1:00:25 PM;ON / Control;PL04/Calendar;EC1+
+healthy;;11.08 ;EC-2 Nordic;;KalkbrÃ¦nderihavnsgade/DampfÃ¦rgevej Nord;AG11;Sep 2, 2025 1:03:39 PM;ON / Control;PL04/Calendar;EC1+
+off;System Alarms;11.09;RSMP;;KalkbrÃ¦nderihavnsgade/Marmormolen;AG11;Jul 11, 2025 5:40:23 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2
+healthy;;11.10 ;RSMP;;KalkbrÃ¦nderhavnsgade-ved Gittervej, udkÃ¸rsel fra byggeplads;AG11;Sep 2, 2025 1:00:29 PM;ON / Control;PL01/Unknown;ITC-3/N
+unknown;Detector error;11.12;EC-2 Nordic;;KalkbrÃ¦nderihavnsgade/Vordingborggade;AG11;Sep 2, 2025 9:39:00 AM;Unknown / Unknown;PL-1/Unknown;EC1+ A prio
+off;System Alarms;11.13 P;RSMP;;StrandvÃ¦nget ved SvanemÃ¸llehavnen;AG11;Feb 29, 2024 7:46:09 AM;Unknown / Unknown;PL-1/Unknown;RSMP La Croix
+attention;Lamp error;12.01 ;EC-2 Nordic;;Vognmandsmarken/Vennemindevej;AG12;Sep 2, 2025 1:03:01 PM;ON / Control;PL03/Calendar;
+healthy;;12.02 ;EC-2 Nordic;;Vennemindevej/NygÃ¥rdsvej;AG12;Sep 2, 2025 12:49:45 PM;ON / Control;PL03/Calendar;
+healthy;;12.03 ;EC-2 Nordic;;Jagtvej/Vennemindevej;AG12;Sep 2, 2025 12:49:38 PM;ON / Control;PL03/Calendar;EC1+
+informational;;12.04 ;EC-2 Nordic;;Ã˜sterbrogade/NygÃ¥rdsvej;AG12;Sep 2, 2025 12:49:46 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;12.05;EC-2 Nordic;;Ã˜sterbrogade/SvanemÃ¸lleslÃ¸jfen;AG12;Sep 2, 2025 1:03:02 PM;ON / Control;PL03/Calendar;
+attention;;12.06;EC-2 Nordic;;Jagtvej/Sankt Kjelds Gade;AG12;Sep 2, 2025 12:49:21 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;12.07 ;EC-2 Nordic;;Strandvejen/StrandÃ¸re;AG12;Sep 2, 2025 12:59:11 PM;ON / Control;PL02/Calendar;
+healthy;;12.08 ;EC-2 Nordic;;Strandvejen/Gammel Vartov Vej;AG12;Sep 2, 2025 12:49:45 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;12.09;EC-2 Nordic;;Strandvejen/Tuborgvej;AG12;Sep 2, 2025 1:00:32 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;12.10 ;EC-2 Nordic;;Ã˜sterbrogade/Jagtvej;AG12;Sep 2, 2025 1:01:58 PM;ON / Control;PL07/Calendar;
+attention;Lamp error;12.11;EC-2 Nordic;;StrandvÃ¦nget/Strandpromenaden;AG12;Sep 2, 2025 1:01:33 PM;ON / Control;PL07/Calendar;EC-2 C-prio
+attention;Lamp error;12.12;EC-2 Nordic;;Strandvejen/Ryvangs AllÃ©;AG12;Sep 2, 2025 12:59:11 PM;ON / Control;PL03/Calendar;
+off;System Alarms;12.13 P;RSMP;;Ryvangs AllÃ©/SvanemÃ¸llens Kaserne;AG12;Mar 1, 2024 6:14:09 AM;Unknown / Unknown;PL-1/Unknown;RSMP La Corix
+healthy;;13.01 P;RSMP;;Sundkrogsgade - Helsinkigade;AG13;Sep 2, 2025 1:02:35 PM;ON / Control;PL04/Unknown;ITC3
+healthy;;13.02 P;RSMP;;Orientkaj - Sundkrogsgade;AG13;Sep 2, 2025 1:02:35 PM;ON / Control;PL04/Unknown;ITC3
+healthy;;13.03 P;RSMP;;Sundkrogsgade - Alexandriagade;AG13;Sep 2, 2025 1:02:18 PM;ON / Control;PL04/Unknown;ITC3
+healthy;;13.04 P;RSMP;;Sundkrogsgade - Istanbulgade;AG13;Sep 2, 2025 1:00:30 PM;ON / Control;PL04/Unknown;ITC3
+off;System Alarms;13.05;RSMP;;Skudehavnsvej/FÃ¦rgehavnsvej ;AG13;Sep 17, 2024 2:05:09 PM;Unknown / Unknown;PL-1/Unknown;ITC-2
+healthy;;13.11 P;RSMP;;Helsinkigade/Southamptongade;AG13;Sep 2, 2025 1:03:38 PM;ON / Control;PL02/Unknown;ITC-3
+attention;Lamp error;13.12;RSMP;;Orientkaj/Det GrÃ¸nne Loop;AG13;Sep 2, 2025 1:01:31 PM;ON / Control;PL01/Unknown;ITC-3/N
+informational;;14.01;EC-2 Nordic;;Lyngbyvej/Emdrupvej;AG14;Sep 2, 2025 12:49:19 PM;ON / Control;PL02/Calendar;EC1+
+attention;;14.02;EC-2 Nordic;;Lyngbyvej/Ryparken Station;AG14;Sep 2, 2025 12:46:39 PM;ON / Control;PL04/Calendar;EC1+
+attention;Hardware error;14.03;RSMP;;Hans Knudsens Plads;AG14;Sep 2, 2025 1:00:43 PM;ON / Control;PL03/Unknown;ITC_3/N
+healthy;;14.04;EC-2 Nordic;;Lyngbyvej/Haraldsgade;AG14;Sep 2, 2025 1:05:31 PM;ON / Control;PL03/Calendar;EC-2 B-prio
+attention;Lamp error;14.06;EC-2 Nordic;;Vibenshus Runddel;AG14;Sep 2, 2025 1:02:36 PM;ON / Control;PL03/Calendar;EC-2 A-prio
+healthy;;14.08;EC-2 Nordic;;NÃ¸rre AllÃ©/Universitetsparken;AG14;Sep 2, 2025 1:02:19 PM;ON / Control;PL03/Calendar;EC-2 B-prio
+healthy;;14.10;EC-2 Nordic;;NÃ¸rre AllÃ©/Universitetet;AG14;Sep 2, 2025 1:05:31 PM;ON / Control;PL03/Calendar;EC-2 C-prio
+off;System Alarms;14.11;RSMP;;Ã˜ster AllÃ©/Edel Sauntes AllÃ©;AG14;Jun 25, 2025 7:54:47 AM;Unknown / Unknown;PL-1/Unknown;ITC-2
+healthy;;15.01;EC-2 Nordic;;LersÃ¸ ParkallÃ©/Jagtvej;AG15;Sep 2, 2025 12:59:11 PM;ON / Control;PL03/Calendar;EC-2 C-prio
+attention;Lamp error;15.03 ;EC-2 Nordic;;Haraldsgade/Vermundsgade;AG15;Sep 2, 2025 12:47:15 PM;ON / Control;PL03/Calendar;
+healthy;;15.04;EC-2 Nordic;;LersÃ¸ Parkalle/Aldersrogade;AG15;Sep 2, 2025 12:47:40 PM;ON / Control;PL03/Calendar;EC1+ C-prio
+attention;;15.05 ;EC-2 Nordic;;LersÃ¸ ParkallÃ©/Haraldsgade;AG15;Sep 2, 2025 12:50:52 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;15.06 ;EC-2 Nordic;;LersÃ¸ ParkallÃ©/StrÃ¸damsvej;AG15;Sep 2, 2025 1:05:44 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;15.07 ;EC-2 Nordic;;LersÃ¸ ParkallÃ©/Gribskovvej;AG15;Sep 2, 2025 1:03:21 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;15.08 ;EC-2 Nordic;;Tuborgvej/Bispebjergvej;AG15;Sep 2, 2025 12:46:38 PM;ON / Control;PL03/Calendar;EC1+
+attention;;15.09 ;EC-2 Nordic;;Tuborgvej/LersÃ¸ ParkallÃ©;AG15;Sep 2, 2025 12:47:38 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;15.10 ;EC-2 Nordic;;Tuborgvej/Emdrupvej;AG15;Sep 2, 2025 12:46:51 PM;ON / Control;PL03/Calendar;
+informational;;15.11;EC-2 Nordic;;Tuborgvej/Vestre LÃ¦ngdevej;AG15;Sep 2, 2025 1:04:41 PM;ON / Control;PL04/Calendar;
+healthy;;16.01;EC-2 Nordic;;Jagtvej/Mimersgade;AG16;Sep 2, 2025 1:05:10 PM;ON / Control;PL03/Calendar;
+attention;Detector error;16.04;EC-2 Nordic;;Rovsinggade/Vermundsgade;AG16;Sep 2, 2025 1:05:46 PM;ON / Control;PL01/Calendar;
+attention;Lamp error;16.05;EC-2 Nordic;;Tagensvej/Jagtvej;AG16;Sep 2, 2025 12:46:37 PM;ON / Control;PL03/Calendar;
+healthy;;16.06;EC-2 Nordic;;Tagensvej/RÃ¥dmandsgade;AG16;Sep 2, 2025 12:48:16 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;16.07 ;EC-2 Nordic;;Tagensvej/Haraldsgade;AG16;Sep 2, 2025 12:50:51 PM;ON / Control;PL03/Calendar;
+healthy;;16.08;EC-2 Nordic;;Tagensvej/Rovsinggade;AG16;Sep 2, 2025 1:05:46 PM;ON / Control;PL02/Calendar;
+attention;;16.09;EC-2 Nordic;;Tagensvej/Lygten;AG16;Sep 2, 2025 1:04:42 PM;ON / Control;PL04/Calendar;EC1+
+healthy;;16.10.;EC-2 Nordic;;Tagensvej/Hovmestervej;AG16;Sep 2, 2025 1:00:03 PM;ON / Control;PL04/Calendar;EC1+
+attention;Lamp error;16.11 ;EC-2 Nordic;;Lygten/FyrbÃ¸dervej;AG16;Sep 2, 2025 12:47:39 PM;ON / Control;PL02/Calendar;
+attention;Lamp error;16.12 ;EC-2 Nordic;;Tagensvej ved Bispebjerg Station - fodgÃ¦ngerfelt;AG16;Sep 2, 2025 12:50:22 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;17.01;EC-2 Nordic;;Frederiksborgvej/Birkedommervej;AG17;Sep 2, 2025 12:49:19 PM;ON / Control;PL02/Calendar;EC1+
+informational;;17.02 ;EC-2 Nordic;;Tagensvej - Frederiksborgvej;AG17;Sep 2, 2025 1:01:15 PM;ON / Control;PL02/Calendar;
+healthy;;17.03 ;EC-2 Nordic;;Frederiksborgvej/Bispebjerg ParkallÃ©;AG17;Sep 2, 2025 1:05:10 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;17.04 ;EC-2 Nordic;;Frederiksborgvej/Emdrupvej;AG17;Sep 2, 2025 12:59:11 PM;ON / Control;PL02/Calendar;
+off;System Alarms;17.05;RSMP;;TomsgÃ¥rdsvej/Rentemestervej;AG17;Jun 24, 2025 7:38:04 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2
+attention;Lamp error;17.06;EC-2 Nordic;;Tuborgvej/Frederiksborgvej;AG17;Sep 2, 2025 12:49:21 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;17.07;EC-2 Nordic;;TomsgÃ¥rdsvej/Birkedommervej;AG17;Sep 2, 2025 12:59:11 PM;ON / Control;PL03/Calendar;
+attention;;17.08;EC-2 Nordic;;TomsgÃ¥rdsvej/Frederikssundsvej;AG17;Sep 2, 2025 1:05:46 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;17.09 ;EC-2 Nordic;;Frederikssundsvej/Borups AllÃ©;AG17;Sep 2, 2025 1:05:45 PM;ON / Control;PL03/Calendar;
+healthy;;17.10.;EC-2 Nordic;;Frederikssundsvej/BellahÃ¸jvej;AG17;Sep 2, 2025 1:04:42 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;17.11 ;EC-2 Nordic;;Hareskovvej/Utterslevvej;AG17;Sep 2, 2025 1:04:42 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;17.12 ;EC-2 Nordic;;Utterslev Torv;AG17;Sep 2, 2025 12:59:11 PM;ON / Control;PL03/Calendar;EC1+
+attention;;17.13;EC-2 Nordic;;Tuborgvej/Tagensvej;AG17;Sep 2, 2025 12:51:22 PM;ON / Control;PL02/Calendar;
+off;;17.14 ;EC-2 Nordic;;Borups AllÃ© - Trafikplads, FodgÃ¦ngersignal;AG17;Aug 26, 2025 10:52:45 AM;Unknown / Unknown;PL-1/Unknown;EC1+
+healthy;;18.01 ;EC-2 Nordic;;NÃ¸rrebrogade/Dosseringen;AG18;Sep 2, 2025 1:04:06 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;18.02 ;EC-2 Nordic;;NÃ¸rrebrogade/FÃ¦lledvej;AG18;Sep 2, 2025 12:47:13 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;18.03 ;EC-2 Nordic;;NÃ¸rrebrogade/Elmegade;AG18;Sep 2, 2025 1:04:29 PM;ON / Control;PL03/Calendar;
+healthy;;18.04 ;EC-2 Nordic;;NÃ¸rrebrogade/Kapelvej;AG18;Sep 2, 2025 12:48:15 PM;ON / Control;PL04/Calendar;
+attention;Lamp error;18.05;EC-2 Nordic;;NÃ¸rrebrogade/SjÃ¦llandsgade;AG18;Sep 2, 2025 12:58:04 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;18.06;EC-2 Nordic;;NÃ¸rrebrogade/Jagtvej;AG18;Sep 2, 2025 1:05:46 PM;ON / Control;PL03/Calendar;A prio
+attention;;18.07 ;EC-2 Nordic;;Sankt Hans Torv/Blegdamsvej/FÃ¦lledvej;AG18;Sep 2, 2025 12:48:16 PM;ON / Control;PL03/Calendar;
+off;Lamp error;18.08 ;RSMP;;SÃ¸torvet;AG18;Aug 4, 2025 9:58:20 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2 A prio
+healthy;;19.01 ;EC-2 Nordic;;Mimersgade/Ã†girsgade;AG19;Sep 2, 2025 12:47:16 PM;ON / Control;PL01/Calendar;
+attention;;19.02 ;EC-2 Nordic;;Mimersgade/RÃ¥dmandsgade;AG19;Sep 2, 2025 12:46:12 PM;ON / Control;PL01/Calendar;
+informational;;19.03 ;EC-2 Nordic;;Mimersgade/Borgmestervangen;AG19;Sep 2, 2025 1:04:28 PM;ON / Control;PL02/Calendar;EC-2 C-prio
+healthy;;19.04;EC-2 Nordic;;NÃ¸rrebrogade/Borgmestervangen;AG19;Sep 2, 2025 1:04:42 PM;ON / Control;PL03/Calendar;EC-2 B-prio
+informational;;19.05;EC-2 Nordic;;NÃ¸rrebrogade/Folmer Bendtsens Plads;AG19;Sep 2, 2025 1:01:57 PM;ON / Control;PL03/Calendar;
+informational;;19.06;EC-2 Nordic;;Frederikssundsvej/Lygten;AG19;Sep 2, 2025 1:01:32 PM;ON / Control;PL03/Calendar;EC-2 B-prio
+attention;Lamp error;19.07 ;EC-2 Nordic;;Frederikssundsvej/Frederiksborgvej;AG19;Sep 2, 2025 1:00:10 PM;ON / Control;PL03/Calendar;EC1+ B-prio
+attention;;19.08 ;EC-2 Nordic;;Frederikssundsvej/MÃ¥gevej;AG19;Sep 2, 2025 12:50:51 PM;ON / Control;PL02/Calendar;
+healthy;;19.09;EC-2 Nordic;;Nordre Fasanvej/Ã˜rnevej;AG19;Sep 2, 2025 12:51:58 PM;ON / Control;PL03/Calendar;EC1+
+attention;;19.10 ;EC-2 Nordic;;Frederikssundsvej/Uglevej;AG19;Sep 2, 2025 12:50:22 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;19.11;EC-2 Nordic;;NÃ¸rrebrogade/Stefansgade;AG19;Sep 2, 2025 1:02:36 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;19.12;EC-2 Nordic;;NÃ¸rrebrogade/HillerÃ¸dgade;AG19;Sep 2, 2025 1:05:47 PM;ON / Control;PL03/Calendar;EC2
+attention;;19.13;EC-2 Nordic;;HillerÃ¸dgade/Lundtoftegade;AG19;Sep 2, 2025 1:02:20 PM;ON / Control;PL02/Calendar;
+healthy;;19.14;EC-2 Nordic;;NÃ¸rrebrogade ved Esrumgade - Cykelruten;AG19;Sep 2, 2025 12:50:23 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;19.15;EC-2 Nordic;;Folmer Bendtsens Plads;AG19;Sep 2, 2025 1:02:20 PM;ON / Control;PL01/Calendar;
+informational;;20.01 ;EC-2 Nordic;;Ã…boulevard/BlÃ¥gÃ¥rdsgade;AG20;Sep 2, 2025 12:48:43 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;20.02 ;EC-2 Nordic;;Ã…boulevard/Rantzausgade;AG20;Sep 2, 2025 1:05:45 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;20.03 ;EC-2 Nordic;;Ã…boulevard/Griffenfeldsgade;AG20;Sep 2, 2025 1:05:31 PM;ON / Control;PL03/Calendar;
+informational;;20.04;EC-2 Nordic;;Ã…boulevard/BÃ¼lowsvej;AG20;Sep 2, 2025 1:05:31 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;20.05 ;EC-2 Nordic;;Ã…gade/Jagtvej;AG20;Sep 2, 2025 12:46:11 PM;ON / Control;PL03/Calendar;A prio
+attention;;20.06;EC-2 Nordic;;Vejdirektoratet - Bispeengebuen/Borups Plads;AG20;Sep 2, 2025 1:06:37 PM;ON / Control;PL03/Calendar;
+healthy;;20.07;EC-2 Nordic;;Jagtvej/Hans Egedes Gade;AG 20;Sep 2, 2025 12:46:13 PM;ON / Control;PL03/Calendar;
+healthy;;20.08;EC-2 Nordic;;Jagtvej/Rantzausgade;AG20;Sep 2, 2025 12:47:13 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;20.09;EC-2 Nordic;;Jagtvej/JÃ¦gersborggade;AG20;Sep 2, 2025 1:00:10 PM;ON / Control;PL03/Calendar;
+informational;;20.10 ;EC-2 Nordic;;Borups AllÃ©/Borups Plads;AG20;Sep 2, 2025 1:02:36 PM;ON / Control;PL01/Calendar;
+informational;;20.11 ;EC-2 Nordic;;Griffenfeldsgade/Rantzausgade;AG20;Sep 2, 2025 1:06:38 PM;ON / Control;PL03/Calendar;
+informational;;20.13 ;EC-2 Nordic;;Borups AllÃ©/Ã…gade;AG20;Sep 2, 2025 1:06:16 PM;ON / Control;PL01/Calendar;
+attention;;21.02;EC-2 Nordic;;Vejdirektoratet - Bispeengbuen/Borups AllÃ©;AG21;Sep 2, 2025 1:00:09 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;21.03;EC-2 Nordic;;Vejdirektoratet - Borups AllÃ©/MÃ¥gevej;AG21;Sep 2, 2025 1:05:32 PM;ON / Control;PL03/Calendar;
+attention;;21.04;EC-2 Nordic;;Vejdirektoratet - Borups AllÃ©/HulgÃ¥rdsvej;AG21;Sep 2, 2025 12:48:16 PM;ON / Control;PL03/Calendar;A prio
+off;;21.05;EC-2 Nordic;;Vejdirektoratet - Borups AllÃ© v/ tunnelrampen;AG21;Aug 26, 2025 10:33:42 AM;Unknown / Unknown;PL-1/Unknown;EC1+
+informational;;21.07;EC-2 Nordic;;Vejdirektoratet - Hareskovvej/Mellemvangen;AG21;Sep 2, 2025 12:48:40 PM;ON / Control;PL03/Calendar;
+attention;;21.08;EC-2 Nordic;;Vejdirektoratet - Hareskovvej/Mosesvinget;AG21;Sep 2, 2025 12:50:51 PM;ON / Control;PL03/Calendar;
+attention;;21.10 ;EC-2 Nordic;;Ã…kandevej/Ruten ;AG21;Sep 2, 2025 12:48:15 PM;ON / Control;PL01/Calendar;EC1+
+attention;Lamp error;22.01 ;EC-2 Nordic;;BrÃ¸nshÃ¸j Torv;AG22;Sep 2, 2025 1:03:09 PM;ON / Control;PL99/UTC Control;
+healthy;;22.02 ;EC-2 Nordic;;Frederikssundsvej/Havdrupvej;AG22;Sep 2, 2025 1:02:27 PM;ON / Control;PL99/UTC Control;EC1+
+healthy;;22.03 ;EC-2 Nordic;;Frederikssundsvej/VeksÃ¸vej;AG22;Sep 2, 2025 1:05:31 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;22.04;EC-2 Nordic;;Frederikssundsvej/Ã…kandevej;AG22;Sep 2, 2025 1:04:28 PM;ON / Control;PL03/Calendar;EC1+
+attention;;22.05 ;EC-2 Nordic;;Frederikssundsvej/Husumvej;AG22;Sep 2, 2025 1:04:28 PM;ON / Control;PL03/Calendar;
+attention;;22.06;EC-2 Nordic;;Frederikssundvej/KobbelvÃ¦nget;AG22;Sep 2, 2025 1:05:46 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;22.07 ;EC-2 Nordic;;Frederikssundsvej/MÃ¸rkhÃ¸jvej;AG22;Sep 2, 2025 12:48:17 PM;ON / Control;PL03/Calendar;
+healthy;;22.08 ;EC-2 Nordic;;Islevhusvej/Marbjergvej;AG22;Sep 2, 2025 1:03:31 PM;ON / Control;PL01/Calendar;EC1+
+healthy;;22.09 ;EC-2 Nordic;;Frederikssundsvej/Novembervej;AG22;Sep 2, 2025 12:49:45 PM;ON / Control;PL03/Calendar;
+informational;;22.10 ;EC-2 Nordic;;Frederikssundsvej/Degnemose AllÃ©;AG22;Sep 2, 2025 1:04:13 PM;ON / Control;PL04/Calendar;EC1+
+dark;Lamp error;22.11 P;EC-2 Nordic;;MÃ¸rkhÃ¸jvej/Veststien;AG22;Sep 2, 2025 1:03:21 PM;DARK / Plan;PL49/Forced;
+attention;;22.12 ;EC-2 Nordic;;Frederikssundsvej/Islevhusvej;AG22;Sep 2, 2025 12:48:18 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;22.13 ;EC-2 Nordic;;Islevhusvej/Veststien;AG22;Sep 2, 2025 1:04:41 PM;ON / Control;PL01/Calendar;EC1+
+informational;;22.14 ;EC-2 Nordic;;Frederikssundsvej/Veststien;AG22;Sep 2, 2025 12:48:18 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;22.15;EC-2 Nordic;;Frederikssundsvej/Ã…flÃ¸jen;AG22;Sep 2, 2025 1:02:36 PM;ON / Control;PL03/Calendar;EC2
+unknown;System Alarms;23.02;EC-2 Nordic;;HulgÃ¥rdsvej/Hvidkildevej;AG23;Sep 2, 2025 9:39:00 AM;Unknown / Unknown;PL-1/Unknown;EC1+
+attention;Lamp error;23.03 ;EC-2 Nordic;;HulgÃ¥rdsvej/HillerÃ¸dgade/GodthÃ¥bsvej;AG23;Sep 2, 2025 12:50:52 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;23.05;EC-2 Nordic;;Sallingvej/Rebildvej;AG23;Sep 2, 2025 12:48:16 PM;ON / Control;PL02/Calendar;
+healthy;;23.06 ;EC-2 Nordic;;Sallingvej/Ã…bakkevej;AG23;Sep 2, 2025 12:51:58 PM;ON / Control;PL03/Calendar;EC1+
+off;System Alarms;23.07;RSMP;;GrÃ¸ndals Parkvej/Apollovej;AG23;Jun 25, 2025 7:55:25 AM;Unknown / Unknown;PL-1/Unknown;ITC-2
+healthy;;23.08 ;EC-2 Nordic;;BellehÃ¸jvej/Annebergvej;AG23;Sep 2, 2025 12:50:52 PM;ON / Control;PL03/Calendar;EC1+
+informational;;23.10 ;EC-2 Nordic;;BellahÃ¸jvej/GodthÃ¥bsvej;AG23;Sep 2, 2025 1:06:16 PM;ON / Control;PL01/Calendar;
+attention;Lamp error;24.01 ;EC-2 Nordic;;Husumvej/KildebrÃ¸ndevej;AG24;Sep 2, 2025 1:04:28 PM;ON / Control;PL01/Calendar;
+healthy;;24.03;EC-2 Nordic;;Jyllingevej/Sallingvej;AG24;Sep 2, 2025 12:59:49 PM;ON / Control;PL02/Calendar;
+healthy;;24.04;EC-2 Nordic;;Jyllingevej/Jernbane AllÃ©;AG24;Sep 2, 2025 1:01:32 PM;ON / Control;PL01/Calendar;
+attention;;24.05;EC-2 Nordic;;Jyllingevej/Ã…lekistevej;AG24;Sep 2, 2025 1:01:32 PM;ON / Control;PL02/Calendar;
+informational;;24.06 ;EC-2 Nordic;;Ã…lekistevej/KlitmÃ¸llervej;AG24;Sep 2, 2025 1:06:37 PM;ON / Control;PL03/Calendar;
+attention;;24.07;EC-2 Nordic;;Ã…lekistevej/Jydeholmen;AG24;Sep 2, 2025 1:05:32 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;24.08 ;EC-2 Nordic;;Ã…lekistevej/Hyltebjerg AllÃ©;AG24;Sep 2, 2025 12:48:45 PM;ON / Control;PL02/Calendar;EC1+
+attention;;24.09;EC-2 Nordic;;Ã…lekistevej/Kirkebjerg AllÃ©;AG24;Sep 2, 2025 12:47:35 PM;ON / Control;PL01/Calendar;EC1+
+attention;Lamp error;24.10;EC-2 Nordic;;Slotsherrensvej/Ã…lekistevej;AG24;Sep 2, 2025 1:01:15 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;24.11;EC-2 Nordic;;Slotsherrensvej/HÃ¸jstrupvej;AG24;Sep 2, 2025 12:46:34 PM;ON / Control;PL02/Calendar;EC1+
+attention;;25.01;EC-2 Nordic;;Istedgade/GasvÃ¦rksvej;AG25;Sep 2, 2025 12:46:38 PM;ON / Control;PL03/Calendar;
+off;System Alarms;25.02 P;RSMP;;SkelbÃ¦kgade/KÃ¸dboderne;AG25;Jan 14, 2025 3:20:59 PM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2
+healthy;;25.04;EC-2 Nordic;;Vesterbrogade/Viktoriagade;AG25;Sep 2, 2025 1:03:23 PM;ON / Control;PL02/Calendar;
+healthy;;25.05;EC-2 Nordic;;Vesterbros Torv;AG25;Sep 2, 2025 1:05:10 PM;ON / Control;PL02/Calendar;
+informational;;25.06;EC-2 Nordic;;Vesterbrogade/Frederiksberg AllÃ©;AG25;Sep 2, 2025 12:48:43 PM;ON / Control;PL02/Calendar;
+informational;;25.07;EC-2 Nordic;;Vesterbrogade/Enghavevej;AG25;Sep 2, 2025 12:57:14 PM;ON / Control;PL01/Calendar;C-prio
+attention;Lamp error;25.11;EC-2 Nordic;;Vesterbrogade/Platanvej;AG25;Sep 2, 2025 1:01:34 PM;ON / Control;PL01/Calendar;
+healthy;;25.12;EC-2 Nordic;;SÃ¸nder Boulevard/SkelbÃ¦kgade;AG25;Sep 2, 2025 1:01:15 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;25.13;RSMP;;DybbÃ¸lsbro/Ingerslevgade;AG25;Sep 2, 2025 1:05:45 PM;ON / Control;PL04/Unknown;ITC-3
+attention;;26.02;EC-2 Nordic;;Roskildevej/Ã…lholm Plads;AG26;Sep 2, 2025 1:00:10 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;26.03 ;EC-2 Nordic;;Roskildevej/Peter Bangs Vej;AG26;Sep 2, 2025 1:03:39 PM;ON / Control;PL02/Calendar;
+attention;Lamp error;26.04 P;EC-2 Nordic;;Ã…lholmvej/Valby Langgade;AG26;Sep 2, 2025 12:48:41 PM;ON / Control;PL03/Calendar;
+attention;;26.05;EC-2 Nordic;;Ã…lholmvej/GrÃ¸ndals Parkvej;AG26;Sep 2, 2025 1:04:41 PM;ON / Control;PL01/Calendar;
+healthy;;26.06 ;EC-2 Nordic;;Jernbane AllÃ©/Jydeholmen;AG26;Sep 2, 2025 12:48:16 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;26.08;EC-2 Nordic;;Jernbane AllÃ©/VanlÃ¸se AllÃ©;AG26;Sep 2, 2025 1:01:32 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;26.12;EC-2 Nordic;;GrÃ¸ndals Parkvej/Jernbane AllÃ©;AG26;Sep 2, 2025 1:00:31 PM;ON / Control;PL02/Calendar;EC2 C-prio
+attention;;26.13;EC-2 Nordic;;GrÃ¸ndals Parkvej ved Flintholm Station;AG26;Sep 2, 2025 1:00:55 PM;ON / Control;PL02/Calendar;EC1+ C-prio
+attention;Lamp error;26.14;EC-2 Nordic;;Roskildevej ved Ã…lholm Station -  fodgÃ¦ngerfelt;AG26;Sep 2, 2025 1:03:21 PM;ON / Control;PL03/Calendar;EC1+ C-prio
+attention;;27.01;EC-2 Nordic;;VesterfÃ¦lledvej/SÃ¸nder Boulevard;AG27;Sep 2, 2025 12:47:13 PM;ON / Control;PL03/Calendar;EC-2 B-prio
+healthy;;27.02.;EC-2 Nordic;;Valby Langgade/Gamle Carlsberg Vej;AG27;Sep 2, 2025 1:04:03 PM;ON / Control;PL03/Calendar;EC-2 B-prio
+healthy;;27.03 ;EC-2 Nordic;;Enghavevej/Lyrskovgade;AG27;Sep 2, 2025 12:47:15 PM;ON / Control;PL02/Calendar;
+healthy;;27.04;RSMP;;Enghavevej - Ny Carlsbergvej;AG27;Sep 2, 2025 1:00:29 PM;ON / Control;PL03/Unknown;ITC-3
+attention;;27.05;EC-2 Nordic;;Enghavevej/SÃ¸nder Boulevard;AG12;Sep 2, 2025 12:48:57 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;27.06;EC-2 Nordic;;Enghavevej/Vigerslev AllÃ©/Ingerslevsgade;AG27;Sep 2, 2025 12:59:49 PM;ON / Control;PL03/Calendar;
+attention;;27.07;EC-2 Nordic;;Vigerslev AllÃ©/Vester FÃ¦lledvej;AG27;Sep 2, 2025 1:00:55 PM;ON / Control;PL03/Calendar;
+attention;;27.08;EC-2 Nordic;;Vigerslev AllÃ©/Bohrsgade;AG27;Sep 2, 2025 12:47:42 PM;ON / Control;PL03/Calendar;EC2
+healthy;;27.09;EC-2 Nordic;;Istedgade/OehlenschlÃ¦gersgade;AG27;Sep 2, 2025 12:48:18 PM;ON / Control;PL03/Calendar;EC-2 C-prio
+healthy;;27.10 ;EC-2 Nordic;;SÃ¸nder Boulevard/Ny Carlsbergvej;AG27;Sep 2, 2025 1:03:21 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;27.11;EC-2 Nordic;;Vester FÃ¦lledvej/Ny Carlsbergvej;AG27;Sep 2, 2025 1:04:42 PM;ON / Control;PL01/Calendar;EC1+
+attention;Lamp error;28.01;EC-2 Nordic;;Vigerslev AllÃ©/SjÃ¦lÃ¸r Boulevard;AG28;Sep 2, 2025 1:04:05 PM;ON / Control;PL99/UTC Control;
+attention;Lamp error;28.03;EC-2 Nordic;;ToftegÃ¥rds Plads/Gl. KÃ¸ge Landevej;AG28;Sep 2, 2025 1:04:28 PM;ON / Control;PL04/Forced;A prio
+attention;Lamp error;28.04 ;EC-2 Nordic;;ToftegÃ¥rds AllÃ©/LyshÃ¸jgÃ¥rdsvej;AG28;Sep 2, 2025 1:04:05 PM;ON / Control;PL01/Calendar;
+attention;Lamp error;28.05 ;EC-2 Nordic;;Valby Langgade/ToftegÃ¥rds AllÃ©;AG28;Sep 2, 2025 1:02:37 PM;ON / Control;PL99/UTC Control;
+attention;Lamp error;28.06.;EC-2 Nordic;;ToftegÃ¥rds AllÃ©/Rughavevej;AG28;Sep 2, 2025 1:02:36 PM;ON / Control;PL01/Calendar;
+informational;;28.07 ;EC-2 Nordic;;Langgade/Gl. Jernbanevej;AG28;Sep 2, 2025 1:02:12 PM;ON / Control;PL99/UTC Control;
+attention;Lamp error;28.08 ;EC-2 Nordic;;Langgade/Annexstraede;AG28;Sep 2, 2025 12:48:42 PM;ON / Control;PL99/UTC Control;
+healthy;;28.09 ;EC-2 Nordic;;Valby Langgade/GÃ¥sebÃ¦ksvej;AG28;Sep 2, 2025 12:48:40 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;28.10 ;EC-2 Nordic;;Valby Langgade/Dronning Dagmars AllÃ©;AG28;Sep 2, 2025 1:00:10 PM;ON / Control;PL03/Calendar;
+attention;Detector error;28.11;EC-2 Nordic;;Vigerslev AllÃ©/Trekronergade;AG28;Sep 2, 2025 12:47:13 PM;ON / Control;PL99/UTC Control;
+attention;Lamp error;28.12;EC-2 Nordic;;Valby Langgade/SÃ¸ndre AllÃ©;AG28;Sep 2, 2025 1:00:31 PM;ON / Control;PL01/Calendar;
+healthy;;28.13;RSMP;;Valby Langgade - Skellet ;AG28;Sep 2, 2025 1:02:35 PM;ON / Control;PL01/Unknown;ITC-3/N
+attention;;29.01;EC-2 Nordic;;Vigerslev AllÃ©/Ramsingsvej;AG29;Sep 2, 2025 1:04:41 PM;ON / Control;PL99/UTC Control;
+healthy;;29.02;EC-2 Nordic;;Vigerslev AllÃ©/Fengersvej;AG29;Sep 2, 2025 1:06:37 PM;ON / Control;PL99/UTC Control;
+healthy;;29.03 ;EC-2 Nordic;;Vigerslev AllÃ©/Retortvej;AG29;Sep 2, 2025 12:47:42 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;29.04 ;EC-2 Nordic;;Vigerslev AllÃ©/Lykkebovej;AG29;Sep 2, 2025 1:03:39 PM;ON / Control;PL03/Calendar;
+healthy;;29.05 ;EC-2 Nordic;;Vigerslevvej/Vigerslev AllÃ©;AG29;Sep 2, 2025 12:51:23 PM;ON / Control;PL02/Calendar;EC1+
+attention;Lamp error;29.06;EC-2 Nordic;;Vigerslevvej/Lykkebovej;AG29;Sep 2, 2025 1:04:01 PM;ON / Control;PL02/Calendar;
+attention;;29.07;EC-2 Nordic;;Vigerslevvej/Landlystvej;AG29;Sep 2, 2025 1:05:46 PM;ON / Control;PL02/Calendar;
+attention;;29.08;EC-2 Nordic;;Vigerslevvej/RÃ¸dbyvej;AG29;Sep 2, 2025 12:51:58 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;29.09;EC-2 Nordic;;Vigerslev AllÃ©/Peder Hjorts Vej/Pakkerivej;29;Sep 2, 2025 12:47:14 PM;ON / Control;PL99/UTC Control;
+informational;;29.10 ;EC-2 Nordic;;Landlystvej/Veststien;AG29;Sep 2, 2025 12:47:14 PM;ON / Control;PL03/Calendar;EC1+
+attention;Hardware error;29.11;RSMP;;Vigerslev alle - Veststien;AG 29;Sep 2, 2025 1:00:30 PM;ON / Control;PL01/Unknown;ITC-3
+healthy;;29.12 ;EC-2 Nordic;;Retortvej - James Grieve Vej - NÃ¸ddehaven;AG29;Sep 2, 2025 1:05:44 PM;ON / Control;PL04/Calendar;EC-2
+healthy;;30.01;EC-2 Nordic;;Gammel KÃ¸ge Landevej/Carl Jacobsens Vej;AG30;Sep 2, 2025 1:05:10 PM;ON / Control;PL02/Calendar;EC1+
+healthy;;30.02 ;EC-2 Nordic;;Gammel KÃ¸ge Landevej/Torveporten;AG30;Sep 2, 2025 1:05:09 PM;ON / Control;PL02/Calendar;EC1+
+attention;Lamp error;30.03;EC-2 Nordic;;Folehaven/Gammel KÃ¸ge Landevej;AG30;Sep 2, 2025 1:06:16 PM;ON / Control;PL04/Calendar;EC-2 C-prio
+healthy;;30.04;EC-2 Nordic;;Folehaven/Retortvej;AG30;Sep 2, 2025 1:03:22 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;30.05;EC-2 Nordic;;Folehaven/Hestehaven - FodgÃ¦ngersignal;AG30;Sep 2, 2025 1:01:22 PM;ON / Control;PL05/Calendar;EC1+
+healthy;;30.06;EC-2 Nordic;;Folehaven/NÃ¸ddehaven - FodgÃ¦ngersignal;AG30;Sep 2, 2025 1:01:15 PM;ON / Control;PL05/Calendar;
+attention;Detector error;30.07;EC-2 Nordic;;Vejdirektoratet - HolbÃ¦kmotorvejen/Vigerslevvej;AG30;Sep 2, 2025 1:00:55 PM;ON / Control;PL03/Calendar;
+healthy;;30.08;EC-2 Nordic;;Vejdirektoratet - HolbÃ¦kmotorvejen/SÃ¸nderkÃ¦r;AG30;Sep 2, 2025 1:00:54 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;30.09;EC-2 Nordic;;Valby IdrÃ¦tspark/Ellebjergvej ;AG30;Sep 2, 2025 1:01:59 PM;ON / Control;PL03/Calendar;
+healthy;;30.10;EC-2 Nordic;;Ellebjergvej/StubmÃ¸llevej;AG30;Sep 2, 2025 1:06:16 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;30.11;EC-2 Nordic;;Gammel KÃ¸ge Landevej/Kirsten Walthers Vej;AG30;Sep 2, 2025 12:46:36 PM;ON / Control;PL02/Calendar;
+attention;;30.12;EC-2 Nordic;;Carl Jacobsens Vej/KÃ¸benhavn Syd Station;AG30;Sep 2, 2025 1:04:42 PM;ON / Control;PL01/Calendar;EC-2
+healthy;;30.13;EC-2 Nordic;;Gammel KÃ¸ge Landevej/Vigerslevvej;AG30;Sep 2, 2025 1:01:30 PM;ON / Control;PL04/Calendar;
+attention;Lamp error;31.01 ;EC-2 Nordic;;SjÃ¦llandsbroen/Sluseholmen;AG31;Sep 2, 2025 1:00:09 PM;ON / Control;PL03/Calendar;
+attention;;31.02;EC-2 Nordic;;SjÃ¦llandsbroen/Sydhavnsgade;AG31;Sep 2, 2025 12:47:42 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;31.03;EC-2 Nordic;;Sydhavnsgade â€“ Scandiagade;AG31;Sep 2, 2025 12:49:19 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;31.04;EC-2 Nordic;;Vasbygade/Teglholmsgade/Scandiagade;AG31;Sep 2, 2025 12:50:51 PM;ON / Control;PL03/Calendar;EC1+ A prio
+attention;Lamp error;31.05 ;EC-2 Nordic;;Sydhavns Plads/P. Knudsensgade/Borgbjergsvej;AG31;Sep 2, 2025 12:47:16 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;31.06;EC-2 Nordic;;Enghavevej - Cykelkrydsning ved Sydhavn station;AG31;Sep 2, 2025 1:03:39 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;31.07;EC-2 Nordic;;Ellebjergvej/Borgmester Christiansensgade;AG31;Sep 2, 2025 1:05:45 PM;ON / Control;PL03/Calendar;
+healthy;;31.08;EC-2 Nordic;;P. Knudsensgade/Gustav Bangs Gade;AG31;Sep 2, 2025 1:03:39 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;31.09;EC-2 Nordic;;Enghavevej/Tranehavevej;AG31;Sep 2, 2025 12:47:40 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;31.10;EC-2 Nordic;;Enghavevej/BavnehÃ¸j AllÃ©;AG31;Sep 2, 2025 1:03:38 PM;ON / Control;PL03/Calendar;EC1+
+attention;;31.11;EC-2 Nordic;;StÃ¸berigade/Teglholmsgade;AG31;Sep 2, 2025 1:05:10 PM;ON / Control;PL01/Calendar;
+healthy;;31.12;EC-2 Nordic;;SjÃ¦lÃ¸r Boulevard/SjÃ¦lÃ¸r Station;AG31;Sep 2, 2025 1:03:23 PM;ON / Control;PL03/Calendar;
+healthy;;31.13;EC-2 Nordic;;Enghavevej - Cykel- og fodgÃ¦ngerovergang;AG31;Sep 2, 2025 1:06:37 PM;ON / Control;PL03/Calendar;
+healthy;;31.14 P;RSMP;;Mozarts Plads;AG31;Sep 2, 2025 1:01:13 PM;ON / Control;PL04/Unknown;ITC-3/N
+attention;Detector error;31.15 P;EC-2 Nordic;;SjÃ¦llandsbroen/Sluseholmen;AG13;Sep 2, 2025 1:06:37 PM;ON / Control;PL03/Calendar;
+attention;Hardware error;31.16 P;RSMP;;Sluseholemen - Ved Stigbordene ;AG 31;Sep 2, 2025 12:51:56 PM;ON / Control;PL07/Unknown;ITC-3/N
+healthy;;31.17;RSMP;;Fragtvej - BÃ¥dehavnsgade;AG31;Sep 2, 2025 1:00:30 PM;ON / Control;PL01/Unknown;ITC-3/N
+attention;Hardware error;31.18;RSMP;;Molestien - BÃ¥dehavnsgade;AG31;Sep 2, 2025 12:57:39 PM;ON / Control;PL03/Unknown;ITC-3/N
+off;System Alarms;33.01 P;RSMP;;Artillerivej - Hilmar Baunsgaard Boulevard;AG33;Jan 2, 2023 9:26:19 AM;Unknown / Unknown;PL-1/Unknown;ITC-2
+healthy;;33.03;EC-2 Nordic;;Ã˜restads Boulevard/Weidekampsgade;AG33;Sep 2, 2025 12:48:18 PM;ON / Control;PL05/Calendar;
+attention;Lamp error;33.04;EC-2 Nordic;;Artillerivej/Njalsgade/Ã˜restads Boulevard;AG33;Sep 2, 2025 1:04:40 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;33.05;EC-2 Nordic;;Artillerivej/Halfdansgade;AG33;Sep 2, 2025 12:49:45 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;33.06;EC-2 Nordic;;Amager FÃ¦lledvej/Sundholmvej;AG33;Sep 2, 2025 1:03:38 PM;ON / Control;PL03/Calendar;
+attention;Detector error;33.07;EC-2 Nordic;;AmagerfÃ¦lledvej/Kaj Munks Vej;AG33;Sep 2, 2025 12:48:41 PM;ON / Control;PL03/Central;EC1+
+attention;;33.08;EC-2 Nordic;;AmagerfÃ¦lledvej/Rued Langgaards Vej;AG33;Sep 2, 2025 12:48:15 PM;ON / Control;PL03/Central;EC1+
+attention;Detector error;33.09;EC-2 Nordic;;AmagerfÃ¦lledvej/August Schade Kvarteret;AG33;Sep 2, 2025 1:02:19 PM;ON / Control;PL01/Calendar;EC-2
+healthy;;33.10;RSMP;;Artillerivej - Axel Heides Gade;AG 33;Sep 2, 2025 1:00:29 PM;ON / Control;PL01/Unknown;ITC-3/N
+healthy;;34.01 ;FlowNode Alert+;;Ã˜resundsvej/Strandlodsvej;AG34;Sep 2, 2025 1:02:20 PM;ON / Control;PL01/Calendar;Flownode
+unknown;System Alarms;34.02;EC-2 Nordic;;Ã˜resundsvej/Ã˜strigsgade;AG34;Sep 2, 2025 9:39:00 AM;Unknown / Unknown;PL-1/Unknown;EC1+
+healthy;;34.03;EC-2 Nordic;;Wittenberggade/Moselgade;AG34;Sep 2, 2025 12:47:15 PM;ON / Control;PL01/Calendar;EC1+
+healthy;;34.04;EC-2 Nordic;;Wittenberggade/Frankrigsgade;AG34;Sep 2, 2025 1:02:19 PM;ON / Control;PL01/Calendar;EC1+
+informational;;34.05;EC-2 Nordic;;Ã˜strigsgade/Lergravsvej;AG34;Sep 2, 2025 1:00:10 PM;ON / Control;PL01/Calendar;
+off;System Alarms;34.06;RSMP;;Kastrupvej/Backersvej;AG34;Apr 15, 2025 7:26:34 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2
+healthy;;34.07;EC-2 Nordic;;Kastrupvej/Wibrandtsvej;AG34;Sep 2, 2025 1:01:34 PM;ON / Control;PL01/Calendar;EC1+
+healthy;;34.08;EC-2 Nordic;;Kastrupvej/Persiensvej - fodgÃ¦ngerfelt;AG34;Sep 2, 2025 1:03:01 PM;ON / Control;PL01/Calendar;EC1+
+attention;;34.09;EC-2 Nordic;;Kastrupvej/Italiensvej;AG34;Sep 2, 2025 12:50:22 PM;ON / Control;PL01/Calendar;
+attention;;34.10;EC-2 Nordic;;Backersvej/Italiensvej;AG34;Sep 2, 2025 1:04:41 PM;ON / Control;PL01/Calendar;
+healthy;;34.11;EC-2 Nordic;;Backersvej/Samosvej;AG34;Sep 2, 2025 1:01:34 PM;ON / Control;PL01/Calendar;EC1+
+healthy;;34.12;EC-2 Nordic;;Ã˜resundsvej/Kastrupvej;AG34;Sep 2, 2025 1:04:36 PM;ON / Control;PL01/Calendar;
+attention;Lamp error;3-4029 Amager Strandvej Frak.15+16;EC-2 Nordic;;Amagerstrandvej/motorvejsramper;VD;Sep 2, 2025 1:00:31 PM;ON / Control;PL03/Calendar;VD
+attention;Lamp error;3-4032 K1 Center Boulevard/Ã˜resundsmotorvejen;EC-2 Nordic;;K1;CPH;Sep 2, 2025 12:59:49 PM;ON / Control;PL04/Central;
+attention;Detector error;3-4032 K2 Center Boulevard/Ã˜resundsmotorvejen;EC-2 Nordic;;K2;CPH;Sep 2, 2025 12:59:49 PM;ON / Control;PL04/Unknown;
+informational_alert;;35.01;EC-2 Nordic;;Sundholmvej/Tingvej;AG35;Sep 2, 2025 1:01:08 PM;ON / Control;PL03/Forced;EC1+
+attention;Lamp error;35.02;EC-2 Nordic;;Englandsvej/Sundholmsvej;AG35;Sep 2, 2025 12:59:49 PM;ON / Control;PL03/Calendar;EC1+
+attention;;35.03;EC-2 Nordic;;Englandsvej/Irlandsvej/Peder Lykkesvej;AG35;Sep 2, 2025 1:01:34 PM;ON / Control;PL03/Calendar;EC-2 C-prio
+attention;;35.05;EC-2 Nordic;;Englandsvej/Urmagerstien ved Dyvekeskolen;AG35;Sep 2, 2025 12:48:17 PM;ON / Control;PL01/Calendar;EC-2 C-prio
+attention;;35.06;EC-2 Nordic;;Englandsvej/Sundbyvestervej;AG35;Sep 2, 2025 1:01:15 PM;ON / Control;PL03/Calendar;EC-2 C-prio
+informational;;35.08;EC-2 Nordic;;RÃ¸de Mellemvej/Dyvekeskolen;AG35;Sep 2, 2025 1:01:33 PM;ON / Control;PL02/Central;EC-2 C-prio
+attention;;35.09;EC-2 Nordic;;RÃ¸de Mellemvej/Peder Lykkes Vej;AG35;Sep 2, 2025 12:59:49 PM;ON / Control;PL03/Central;EC-1+ C-prio
+healthy;;35.10.;EC-2 Nordic;;Irlandsvej/Sundbyvestervej;AG35;Sep 2, 2025 1:01:32 PM;ON / Control;PL03/Calendar;EC1+
+off;;35.11 ;EC-2 Nordic;;Vejlands AllÃ©/Irlandsvej;AG35;Sep 2, 2025 8:49:24 AM;Unknown / Unknown;PL-1/Unknown;
+healthy;;36.01;EC-2 Nordic;;Amagerbrogade/Frankrigsgade;AG36;Sep 2, 2025 12:47:38 PM;ON / Control;PL01/Calendar;
+healthy;;36.02;EC-2 Nordic;;Amagerbrogade/Englandsvej;AG36;Sep 2, 2025 1:05:31 PM;ON / Control;PL01/Calendar;
+informational;;36.03 ;EC-2 Nordic;;Amagerbrogade/Elbagade;AG36;Sep 2, 2025 1:05:44 PM;ON / Control;PL01/Calendar;
+healthy;;36.04 ;EC-2 Nordic;;Amagerbrogade/Oxford AllÃ©;AG36;Sep 2, 2025 1:05:10 PM;ON / Control;PL03/Calendar;
+attention;;36.05 ;EC-2 Nordic;;Amagerbrogade/Sundbyvester Plads;AG36;Sep 2, 2025 12:47:15 PM;ON / Control;PL01/Calendar;
+healthy;;36.06;EC-2 Nordic;;Vejlands AllÃ©/Amagerbrogade;AG36;Sep 2, 2025 12:48:17 PM;ON / Control;PL05/Calendar;EC2
+healthy;;39.01;EC-2 Nordic;;Kongelundsvej/Otto Baches AllÃ©;AG39;Sep 2, 2025 1:04:41 PM;ON / Control;PL01/Calendar;EC1+
+attention;Lamp error;40.01 ;EC-2 Nordic;;Vejlands AllÃ©/Englandsvej;AG40;Sep 2, 2025 1:03:38 PM;ON / Control;PL03/Calendar;
+attention;;40.02;EC-2 Nordic;;Vejlands AllÃ©/RÃ¸de Mellemvej;AG40;Sep 2, 2025 12:48:18 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;40.03;EC-2 Nordic;;Vejlands AllÃ©/Ã˜restads Boulevard;AG40;Sep 2, 2025 12:49:19 PM;ON / Control;PL03/Calendar;EC-1+ C-prio
+off;Lamp error;40.04 ;RSMP;;Vejlands AllÃ©/Center Boulevard;AG40;Jun 1, 2023 11:54:31 AM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2
+attention;;40.05;EC-2 Nordic;;Vejlands AllÃ©/Artillerivej;AG40;Sep 2, 2025 1:03:37 PM;ON / Control;PL01/Calendar;
+healthy;;40.06;EC-2 Nordic;;Vejlands AllÃ©/Amagermotorvejen Ã˜st;AG40;Sep 2, 2025 1:03:37 PM;ON / Control;PL04/Calendar;EC1+
+healthy;;40.07;EC-2 Nordic;;Vejlands AllÃ©/Amager Motorvejen Vest;AG40;Sep 2, 2025 12:49:45 PM;ON / Control;PL04/Calendar;EC1+
+healthy;;40.08;EC-2 Nordic;;Amager Motorvejen - Sydlige udfletning;AG40;Sep 2, 2025 12:47:14 PM;ON / Control;PL04/Calendar;EC1+ B-prio
+attention;;40.09;EC-2 Nordic;;Kongelundsvej 65;AG40;Sep 2, 2025 12:48:18 PM;ON / Control;PL03/Calendar;EC-1+ C-prio
+attention;Lamp error;40.10.;EC-2 Nordic;;Englandsvej/FÃ¸lfodvej;AG40;Sep 2, 2025 12:48:41 PM;ON / Control;PL03/Calendar;
+attention;;40.13;EC-2 Nordic;;Kongelundsvej/Slusevej;AG40;Sep 2, 2025 12:48:18 PM;ON / Control;PL03/Calendar;
+informational;;40.14;EC-2 Nordic;;Vejlands AllÃ©/Digevej;AG40;Sep 2, 2025 1:04:41 PM;ON / Control;PL03/Calendar;EC1+ C-prio
+off;Detector error;41.01;RSMP;;Strandlodsvej/Lergravsvej;AG41;Jan 28, 2020 1:12:56 PM;Unknown / Unknown;PL-1/Unknown;Swarco ITC-2
+informational_alert;;41.02;EC-2 Nordic;;Prags Boulevard/Ved Amagerbanen;AG41;Sep 2, 2025 12:59:11 PM;ON / Control;PL03/Forced;
+attention;;41.03 ;EC-2 Nordic;;Vermlandsgade/KlÃ¸vermarksvej;AG41;Sep 2, 2025 1:04:28 PM;ON / Control;PL03/Calendar;
+healthy;;41.04 ;RSMP;;Vermlandsgade/Uplandsgade;AG41;Sep 2, 2025 1:02:18 PM;ON / Control;PL01/Unknown;ITC-3/N
+healthy;;41.05;EC-2 Nordic;;Holmbladsgade/Vermlandsgade;AG41;Sep 2, 2025 1:06:16 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;41.06 P;RSMP;;Nyrnbergade - Holmbladsgade;AG41;Sep 2, 2025 1:04:17 PM;ON / Control;PL06/Unknown;ITC-3/N
+attention;;41.13;EC-2 Nordic;;Amager Strandvej/Ã˜resundsvej;AG41;Sep 2, 2025 1:01:14 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;41.20;EC-2 Nordic;;Amager Strandvej/Svend Vonveds Vej;AG20;Sep 2, 2025 1:00:54 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;41.21;EC-2 Nordic;;Amager Strandvej/Prags Boulevard;AG41;Sep 2, 2025 12:57:40 PM;ON / Control;PL01/Calendar;
+attention;Lamp error;41.22 ;EC-2 Nordic;;Prags Boulevard/Strandlodsvej;AG41;Sep 2, 2025 12:48:16 PM;ON / Control;PL02/Calendar;
+off;System Alarms;41.23;RSMP;;Amager Strandvej/HedegÃ¥aardsvej;AG41;Jan 28, 2020 1:11:22 PM;Unknown / Unknown;PL-1/Unknown;Swarco ITC2, X Prio
+healthy;;42.02;EC-2 Nordic;;Classensgade - fodgÃ¦ngerfelt ved LivjÃ¦gergade;AG42;Sep 2, 2025 12:47:41 PM;ON / Control;PL01/Calendar;
+healthy;;42.03 ;EC-2 Nordic;;Ã˜stbanegade/Nordre Frihavnsgade;AG42;Sep 2, 2025 1:03:39 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;42.05 ;EC-2 Nordic;;Ã˜stbanegade ved Nordhavn Station - fodgÃ¦ngerfelt;AG42;Sep 2, 2025 1:04:38 PM;ON / Control;PL03/Calendar;EC1+
+attention;Lamp error;42.06;EC-2 Nordic;;Strandboulevarden/Svendborggade;AG42;Sep 2, 2025 12:58:50 PM;ON / Control;PL05/Calendar;
+attention;Lamp error;42.07;EC-2 Nordic;;Strandboulevard/Vordingborggade;AG42;Sep 2, 2025 1:01:56 PM;ON / Control;PL07/Calendar;EC1+
+attention;Lamp error;42.08;EC-2 Nordic;;Strandboulevard/Ã…rhusgade;AG42;Sep 2, 2025 1:00:31 PM;ON / Control;PL03/Calendar;
+healthy;;42.09 ;EC-2 Nordic;;Strandboulevard/Nordre Frihavnsgade;AG42;Sep 2, 2025 12:46:38 PM;ON / Control;PL03/Calendar;EC1+
+healthy;;42.11;RSMP;;Strandboulevarden/Classensgade;AG42;Sep 2, 2025 12:59:10 PM;ON / Control;PL06/Unknown;ITC-3
+healthy;;42.12 ;RSMP;;Strandboulevarden/Kristianiagade;AG42;Sep 2, 2025 1:00:34 PM;ON / Control;PL01/Unknown;ITC-3/N
+attention;Lamp error;43.01 P;RSMP;;KlÃ¸vermarksvej - Raffinaderivej ;AG43;Sep 2, 2025 1:00:29 PM;ON / Control;PL01/Unknown;ITC-3/N
+attention;Configuration error;50.01;EC-2 Nordic;;Ã˜restad Boulevard/Arne Jacobsens AllÃ©;AG50;Sep 2, 2025 1:01:32 PM;ON / Control;PL04/Calendar;
+attention;Detector error;50.02;EC-2 Nordic;;Arne Jacobsens AllÃ©/Ove Arups Vej/Edvard Thomsens Vej;AG50;Sep 2, 2025 1:02:37 PM;ON / Control;PL05/Forced;
+attention;Lamp error;50.03;EC-2 Nordic;;Center Boulevard/Arne Jacobsens AllÃ©;AG50;Sep 2, 2025 1:02:36 PM;ON / Control;PL03/Calendar;
+attention;Detector error;50.04;EC-2 Nordic;;Ove Arups Vej/Fields Parkering;AG50;Sep 2, 2025 1:02:36 PM;ON / Control;PL01/Calendar;
+attention;Lamp error;50.05;EC-2 Nordic;;Ã˜restad Boulevard/Hannemanns AllÃ©;AG50;Sep 2, 2025 12:59:50 PM;ON / Control;PL03/Calendar;
+attention;Lamp error;50.06;EC-2 Nordic;;Ã˜restads Boulevard/Asger Jorns AllÃ©;AG50;Sep 2, 2025 12:58:04 PM;ON / Control;PL04/Calendar;
+attention;Lamp error;50.07;EC-2 Nordic;;Ã˜restads Boulevard/C.F. MÃ¸llers AllÃ©;AG50;Sep 2, 2025 1:03:38 PM;ON / Control;PL03/Calendar;
+attention;Detector error;50.08;EC-2 Nordic;;Ove Arups Vej/Ã˜resundsmotorvejen;AG50;Sep 2, 2025 1:04:05 PM;ON / Control;PL05/Calendar;
+attention;Lamp error;50.09;EC-2 Nordic;;Hannemanns AllÃ©/Ove Arups Vej;50;Sep 2, 2025 12:47:14 PM;ON / Control;PL03/Calendar;EC-2 C-prio
+attention;;50.10;EC-2 Nordic;;Center Boulevard /C.F. MÃ¶llers Alle;AG50;Sep 2, 2025 12:53:57 PM;ON / Control;PL05/Calendar;
+informational;;50.11;EC-2 Nordic;;Ã˜restads Boulevard/Ejler Billes Alle;AG50;Sep 2, 2025 1:02:36 PM;ON / Control;PL04/Calendar;
+attention;;50.12;EC-2 Nordic;;Asger Jorns AllÃ©/Robert Jacobsens Vej;AG50;Sep 2, 2025 1:06:15 PM;ON / Control;PL06/Calendar;
+attention;Lamp error;50.13;EC-2 Nordic;;Ejler Billes Alle / Robert Jacobsens Vej;AG50;Sep 2, 2025 1:04:41 PM;ON / Control;PL06/Calendar;
+attention;Lamp error;50.14;EC-2 Nordic;;Ejler Billes AllÃ©/Else Alfelts Vej;AG50;Sep 2, 2025 1:04:06 PM;ON / Control;PL02/Calendar;
+healthy;;50.15;RSMP;;Otto Baches AllÃ© â€“ Kanalvej ;AG50;Sep 2, 2025 1:02:18 PM;ON / Control;PL04/Unknown;ITC-3/N
+attention;;50.16;EC-2 Nordic;;Ã˜restads Boulevard/Martha Christensens Vej;AG50;Sep 2, 2025 1:05:45 PM;ON / Control;PL05/Calendar;
